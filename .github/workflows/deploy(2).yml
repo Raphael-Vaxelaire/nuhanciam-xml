@@ -5,6 +5,9 @@ on:
     - cron: '0 6 * * *'  # Tous les jours à 6h UTC (8h Paris)
   workflow_dispatch:       # Permet de lancer manuellement
 
+permissions:
+  contents: write
+
 jobs:
   generate-and-deploy:
     runs-on: ubuntu-latest
@@ -25,9 +28,8 @@ jobs:
         run: python generate_feed.py
 
       - name: Déployer sur GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
           publish_branch: gh-pages
-          include_files: feed.xml
