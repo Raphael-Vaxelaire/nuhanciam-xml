@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 29 Apr 2026 08:25:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:27:43 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -2528,7 +2528,7 @@
       <g:price>29.20 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Sunscreen</g:google_product_category>
       <g:product_type>Lot Promo</g:product_type>
       <g:gtin>3664448000649</g:gtin>
       <g:mpn>115</g:mpn>
@@ -2542,6 +2542,7 @@
       <g:custom_label_1>Lot Promo</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
+      <g:custom_label_4>Solaire</g:custom_label_4>
     </item>
     <item>
       <g:id>254015</g:id>
@@ -2662,6 +2663,29 @@
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Anti-taches, bundle, Routines</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>261001</g:id>
+      <g:title>Sac de plage Nuhanciam</g:title>
+      <g:description>Pour l'achat d'un produit solaire et d'un autre produit de la gamme, Nuhanciam vous offre ce sac de plage. D'une contenance de 15 litres, sa conception robuste et son design discret feront de lui le compagnon idéal de vos vacances au soleil. Offre valable dans la limite des stocks disponibles.</g:description>
+      <g:link>https://nuhanciam.com/products/sac-de-plage-nuhanciam</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Packshot-sac-plage.jpg?v=1777467827</g:image_link>
+      <g:availability>backorder</g:availability>
+      <g:price>0.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
+      <g:product_type>Cadeaux</g:product_type>
+      <g:mpn>261001</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Sac-plage-lifestyle.jpg?v=1777467845</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15735013933400</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Cadeaux</g:custom_label_1>
+      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>backorder</g:custom_label_3>
     </item>
     <item>
       <g:id>029</g:id>
