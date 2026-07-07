@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 06 Jul 2026 10:43:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 09:48:48 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -1011,6 +1011,7 @@
       <g:mpn>252003</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>68.80 EUR</g:sale_price>
+      <g:shipping_weight>0.234 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696236183896</g:item_group_id>
@@ -1059,6 +1060,7 @@
       <g:mpn>252006</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>40.80 EUR</g:sale_price>
+      <g:shipping_weight>0.256 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696261251416</g:item_group_id>
@@ -1083,6 +1085,7 @@
       <g:mpn>252004</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>27.84 EUR</g:sale_price>
+      <g:shipping_weight>0.87 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696240902488</g:item_group_id>
@@ -1107,6 +1110,7 @@
       <g:mpn>252007</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>46.72 EUR</g:sale_price>
+      <g:shipping_weight>0.344 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696268755288</g:item_group_id>
@@ -1131,6 +1135,7 @@
       <g:mpn>252002</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>44.72 EUR</g:sale_price>
+      <g:shipping_weight>0.87 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696224944472</g:item_group_id>
@@ -1155,6 +1160,7 @@
       <g:mpn>252001</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>57.00 EUR</g:sale_price>
+      <g:shipping_weight>0.406 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696157213016</g:item_group_id>
@@ -1179,6 +1185,7 @@
       <g:mpn>252008</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>42.00 EUR</g:sale_price>
+      <g:shipping_weight>0.068 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696274129240</g:item_group_id>
@@ -1233,6 +1240,7 @@
       <g:mpn>252010</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>53.84 EUR</g:sale_price>
+      <g:shipping_weight>0.229 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696284778840</g:item_group_id>
@@ -1257,6 +1265,7 @@
       <g:mpn>252011</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>40.38 EUR</g:sale_price>
+      <g:shipping_weight>0.239 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696290120024</g:item_group_id>
@@ -1838,7 +1847,7 @@
       <g:mpn>068</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>5.52 EUR</g:sale_price>
-      <g:shipping_weight>62.0 kg</g:shipping_weight>
+      <g:shipping_weight>62.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Texture-gel-Dermo-Fond-optim.jpg?v=1782140900</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -1864,7 +1873,7 @@
       <g:mpn>2068</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>11.04 EUR</g:sale_price>
-      <g:shipping_weight>126.0 kg</g:shipping_weight>
+      <g:shipping_weight>126.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Texture-gel-Dermo-Fond-optim.jpg?v=1782140900</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -3344,6 +3353,7 @@
       <g:mpn>255016</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>90.84 EUR</g:sale_price>
+      <g:shipping_weight>1.237 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696339992920</g:item_group_id>
@@ -3368,6 +3378,7 @@
       <g:mpn>254014</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>95.41 EUR</g:sale_price>
+      <g:shipping_weight>0.537 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696320004440</g:item_group_id>
@@ -3392,6 +3403,7 @@
       <g:mpn>254013</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>89.22 EUR</g:sale_price>
+      <g:shipping_weight>0.591 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696309518680</g:item_group_id>
@@ -3416,6 +3428,7 @@
       <g:mpn>255012</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>119.84 EUR</g:sale_price>
+      <g:shipping_weight>1.444 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696296149336</g:item_group_id>
@@ -4153,6 +4166,7 @@
       <g:mpn>326001</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>57.90 EUR</g:sale_price>
+      <g:shipping_weight>0.501 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Coffret_fete_des_meres_crea.jpg?v=1778690141</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -4176,6 +4190,7 @@
       <g:mpn>253017</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>88.40 EUR</g:sale_price>
+      <g:shipping_weight>0.616 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/moussevitamineC_0c2e6ec2-3a4b-498f-9b09-b30c63d32162.jpg?v=1775831651</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/REF_031_DUO_SERUM_ANTI_RIDES_FERMETE_028277f6-a4f5-450d-ae4f-6e150a62ff79.jpg?v=1775831651</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/REF030DUOSOINREPULPANTUNIFIANT_64f5ad8c-fab2-4e56-89f3-007f86dfd729.jpg?v=1775831651</g:additional_image_link>
@@ -4204,6 +4219,7 @@
       <g:mpn>253009</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>70.80 EUR</g:sale_price>
+      <g:shipping_weight>0.229 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15696279765336</g:item_group_id>
