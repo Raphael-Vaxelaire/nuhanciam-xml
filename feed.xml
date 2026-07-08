@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 07 Jul 2026 09:48:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 08:34:39 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -1909,6 +1909,29 @@
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>Anti-imperfections, Corps, Gel douche, Soin corps, Soldes</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>GIFT-01</g:id>
+      <g:title>Gommage Capillaire Révolution Detox</g:title>
+      <g:description>Gommage Capillaire Révolution Détox à 92% d’origine naturelle purifie le cuir chevelu en éliminant en douceur les impuretés, les cellules mortes et l’excès de sébum. Il procure un effet détox immédiat, libère les racines et prépare le cuir chevelu à mieux recevoir les soins nourrissants. Grâce aux massages associés au noyau d’abricot, il stimule la microcirculation et contribue à renforcer les racines, favorisant ainsi la pousse des cheveux.Dès la première utilisation, les cheveux paraissent plus doux, plus légers et plus brillants. Ce soin est adapté à tous les types de cheveux.</g:description>
+      <g:link>https://nuhanciam.com/products/gommage-capillaire-revolution-detox</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/GommageCapillaireRevolutionDetox.jpg?v=1782837483</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>24.99 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
+      <g:product_type>Cadeaux</g:product_type>
+      <g:mpn>GIFT-01</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>0.00 EUR</g:sale_price>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15839725977944</g:item_group_id>
+      <g:custom_label_0>Beauté Insolente</g:custom_label_0>
+      <g:custom_label_1>Cadeaux</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
     </item>
     <item>
       <g:id>026</g:id>
