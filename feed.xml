@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:41:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:01:29 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -107,7 +107,7 @@
       <g:mpn>051</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>28.80 EUR</g:sale_price>
-      <g:shipping_weight>0.538 kg</g:shipping_weight>
+      <g:shipping_weight>560.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/2_92164ada-5035-4a2a-80a0-1e9f43e93587.jpg?v=1774632932</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/4_c93bfdf2-e73f-458f-b3db-e5d42be1613f.jpg?v=1774632932</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3_bc1234f2-1a7d-4b1c-9d5b-0cd3dac40e8f.jpg?v=1774632932</g:additional_image_link>
@@ -141,7 +141,7 @@
       <g:mpn>2051</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>57.60 EUR</g:sale_price>
-      <g:shipping_weight>1.076 kg</g:shipping_weight>
+      <g:shipping_weight>1120.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/2_92164ada-5035-4a2a-80a0-1e9f43e93587.jpg?v=1774632932</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/4_c93bfdf2-e73f-458f-b3db-e5d42be1613f.jpg?v=1774632932</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3_bc1234f2-1a7d-4b1c-9d5b-0cd3dac40e8f.jpg?v=1774632932</g:additional_image_link>
@@ -174,7 +174,7 @@
       <g:mpn>3051</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>86.40 EUR</g:sale_price>
-      <g:shipping_weight>1.614 kg</g:shipping_weight>
+      <g:shipping_weight>1680.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/2_92164ada-5035-4a2a-80a0-1e9f43e93587.jpg?v=1774632932</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/4_c93bfdf2-e73f-458f-b3db-e5d42be1613f.jpg?v=1774632932</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3_bc1234f2-1a7d-4b1c-9d5b-0cd3dac40e8f.jpg?v=1774632932</g:additional_image_link>
@@ -808,7 +808,7 @@
       <g:description>Le soleil est la première cause d'apparition de taches brunes, du mélasma et du vieillissement cutané prématuré. La creme solaire invisible anti tache SPF 50+ Nuhanciam change la donne : une crème solaire anti-taches à la fois protectrice et corrective, dans une texture légère, invisible et à l'effet mat. Formulée pour respecter l'environnement marin et adaptée à toute la famille. Le nouveau soin solaire de votre routine beauté grâce à son action 2-en-1 !</g:description>
       <g:link>https://nuhanciam.com/products/creme-solaire-invisible-anti-taches?variant=56975729394008</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SPFx1.jpg?v=1774449687</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>backorder</g:availability>
       <g:price>25.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -831,7 +831,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>Anti-taches, Solaire, Soldes</g:custom_label_4>
     </item>
     <item>
@@ -1531,7 +1531,7 @@
       <g:mpn>019</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>12.40 EUR</g:sale_price>
-      <g:shipping_weight>0.667 kg</g:shipping_weight>
+      <g:shipping_weight>580.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-sans-savon-naturel.png?v=1753354050</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-hydratant-peau-seche.webp?v=1753354050</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1558,7 +1558,7 @@
       <g:mpn>2019</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>24.80 EUR</g:sale_price>
-      <g:shipping_weight>1.334 kg</g:shipping_weight>
+      <g:shipping_weight>1160.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-sans-savon-naturel.png?v=1753354050</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-hydratant-peau-seche.webp?v=1753354050</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1585,7 +1585,7 @@
       <g:mpn>3019</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>37.20 EUR</g:sale_price>
-      <g:shipping_weight>2.001 kg</g:shipping_weight>
+      <g:shipping_weight>1740.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-sans-savon-naturel.png?v=1753354050</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-hydratant-peau-seche.webp?v=1753354050</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -2198,7 +2198,7 @@
       <g:mpn>052</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>12.40 EUR</g:sale_price>
-      <g:shipping_weight>0.667 kg</g:shipping_weight>
+      <g:shipping_weight>590.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam2.jpg?v=1775148331</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam3.jpg?v=1775148331</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam4.jpg?v=1776184470</g:additional_image_link>
@@ -2232,7 +2232,7 @@
       <g:mpn>2052</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>24.80 EUR</g:sale_price>
-      <g:shipping_weight>1.334 kg</g:shipping_weight>
+      <g:shipping_weight>1180.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam2.jpg?v=1775148331</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam3.jpg?v=1775148331</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam4.jpg?v=1776184470</g:additional_image_link>
@@ -2265,7 +2265,7 @@
       <g:mpn>3052</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>37.20 EUR</g:sale_price>
-      <g:shipping_weight>2.001 kg</g:shipping_weight>
+      <g:shipping_weight>1770.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam2.jpg?v=1775148331</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam3.jpg?v=1775148331</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam4.jpg?v=1776184470</g:additional_image_link>
@@ -2555,7 +2555,7 @@
       <g:mpn>015</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>21.20 EUR</g:sale_price>
-      <g:shipping_weight>0.633 kg</g:shipping_weight>
+      <g:shipping_weight>563.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-hydratant-corps-naturel-vegan.png?v=1753354117</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corporel-hydratation-continue.webp?v=1753354117</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -2582,7 +2582,7 @@
       <g:mpn>2015</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>42.40 EUR</g:sale_price>
-      <g:shipping_weight>1.266 kg</g:shipping_weight>
+      <g:shipping_weight>1126.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-hydratant-corps-naturel-vegan.png?v=1753354117</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corporel-hydratation-continue.webp?v=1753354117</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -2609,7 +2609,7 @@
       <g:mpn>3015</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>63.60 EUR</g:sale_price>
-      <g:shipping_weight>1.899 kg</g:shipping_weight>
+      <g:shipping_weight>1689.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-hydratant-corps-naturel-vegan.png?v=1753354117</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corporel-hydratation-continue.webp?v=1753354117</g:additional_image_link>
       <g:age_group>adult</g:age_group>
