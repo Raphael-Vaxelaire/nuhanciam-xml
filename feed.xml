@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:39:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:45:52 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -21,7 +21,6 @@
       <g:gtin>3664448000311</g:gtin>
       <g:mpn>037</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>21.60 EUR</g:sale_price>
       <g:shipping_weight>0.559 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/baume-corporel-naturel-beurre-de-karite.png?v=1733829961</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/baume-corps-peau-tres-seche-anti-demangeaison-grattage.webp?v=1733829961</g:additional_image_link>
@@ -31,9 +30,9 @@
       <g:item_group_id>9352591671640</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>2037</g:id>
@@ -49,7 +48,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>2037</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>43.20 EUR</g:sale_price>
+      <g:sale_price>68.40 EUR</g:sale_price>
       <g:shipping_weight>1.118 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/baume-corporel-naturel-beurre-de-karite.png?v=1733829961</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/baume-corps-peau-tres-seche-anti-demangeaison-grattage.webp?v=1733829961</g:additional_image_link>
@@ -61,7 +60,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>3037</g:id>
@@ -77,7 +76,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>3037</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>64.80 EUR</g:sale_price>
+      <g:sale_price>91.80 EUR</g:sale_price>
       <g:shipping_weight>1.677 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/baume-corporel-naturel-beurre-de-karite.png?v=1733829961</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/baume-corps-peau-tres-seche-anti-demangeaison-grattage.webp?v=1733829961</g:additional_image_link>
@@ -89,7 +88,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>051</g:id>
@@ -106,7 +105,6 @@
       <g:gtin>3664448000540</g:gtin>
       <g:mpn>051</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>28.80 EUR</g:sale_price>
       <g:shipping_weight>560.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/2_92164ada-5035-4a2a-80a0-1e9f43e93587.jpg?v=1774632932</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/4_c93bfdf2-e73f-458f-b3db-e5d42be1613f.jpg?v=1774632932</g:additional_image_link>
@@ -122,9 +120,9 @@
       <g:item_group_id>15460443390296</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soin corps, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>2051</g:id>
@@ -140,7 +138,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>2051</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>57.60 EUR</g:sale_price>
+      <g:sale_price>68.40 EUR</g:sale_price>
       <g:shipping_weight>1120.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/2_92164ada-5035-4a2a-80a0-1e9f43e93587.jpg?v=1774632932</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/4_c93bfdf2-e73f-458f-b3db-e5d42be1613f.jpg?v=1774632932</g:additional_image_link>
@@ -157,7 +155,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soin corps, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>3051</g:id>
@@ -173,7 +171,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>3051</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>86.40 EUR</g:sale_price>
+      <g:sale_price>91.80 EUR</g:sale_price>
       <g:shipping_weight>1680.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/2_92164ada-5035-4a2a-80a0-1e9f43e93587.jpg?v=1774632932</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/4_c93bfdf2-e73f-458f-b3db-e5d42be1613f.jpg?v=1774632932</g:additional_image_link>
@@ -190,7 +188,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soin corps, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>shopify_57350091211096</g:id>
@@ -337,7 +335,6 @@
       <g:gtin>3664448000199</g:gtin>
       <g:mpn>025</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>28.00 EUR</g:sale_price>
       <g:shipping_weight>0.036 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam_2.png?v=1753797137</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -345,9 +342,9 @@
       <g:item_group_id>8815375122776</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2025</g:id>
@@ -363,7 +360,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2025</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>56.00 EUR</g:sale_price>
+      <g:sale_price>66.50 EUR</g:sale_price>
       <g:shipping_weight>0.072 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam_2.png?v=1753797137</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -373,7 +370,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3025</g:id>
@@ -389,7 +386,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3025</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>84.00 EUR</g:sale_price>
+      <g:sale_price>89.25 EUR</g:sale_price>
       <g:shipping_weight>0.108 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam_2.png?v=1753797137</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -399,7 +396,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>017</g:id>
@@ -416,7 +413,6 @@
       <g:gtin>3664448000144</g:gtin>
       <g:mpn>017</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>24.80 EUR</g:sale_price>
       <g:shipping_weight>0.031 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Contourdesyeux_13c1d368-a1f9-46e2-87e8-ffbe1e4a2393.png?v=1753797069</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -424,9 +420,9 @@
       <g:item_group_id>8816120103256</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Contours des yeux, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Contours des yeux, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2017</g:id>
@@ -442,7 +438,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2017</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>49.60 EUR</g:sale_price>
+      <g:sale_price>58.90 EUR</g:sale_price>
       <g:shipping_weight>0.062 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Contourdesyeux_13c1d368-a1f9-46e2-87e8-ffbe1e4a2393.png?v=1753797069</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -452,7 +448,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Contours des yeux, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Contours des yeux, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3017</g:id>
@@ -468,7 +464,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3017</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>74.40 EUR</g:sale_price>
+      <g:sale_price>79.05 EUR</g:sale_price>
       <g:shipping_weight>0.093 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Contourdesyeux_13c1d368-a1f9-46e2-87e8-ffbe1e4a2393.png?v=1753797069</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -478,7 +474,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Contours des yeux, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Contours des yeux, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>034</g:id>
@@ -495,7 +491,6 @@
       <g:gtin>3664448000304</g:gtin>
       <g:mpn>034</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>27.20 EUR</g:sale_price>
       <g:shipping_weight>0.072 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclaircissanteTaches.png?v=1753797184</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -503,9 +498,9 @@
       <g:item_group_id>9985642201432</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2034</g:id>
@@ -521,7 +516,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2034</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>54.40 EUR</g:sale_price>
+      <g:sale_price>64.60 EUR</g:sale_price>
       <g:shipping_weight>0.144 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclaircissanteTaches.png?v=1753797184</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -531,7 +526,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3034</g:id>
@@ -547,7 +542,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3034</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>81.60 EUR</g:sale_price>
+      <g:sale_price>86.70 EUR</g:sale_price>
       <g:shipping_weight>0.216 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclaircissanteTaches.png?v=1753797184</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -557,7 +552,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>001</g:id>
@@ -574,7 +569,6 @@
       <g:gtin>3401398127978</g:gtin>
       <g:mpn>001</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>31.28 EUR</g:sale_price>
       <g:shipping_weight>0.073 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclatUnifiante.png?v=1753355834</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-eclat-unifiante_1.jpg?v=1753355834</g:additional_image_link>
@@ -583,9 +577,9 @@
       <g:item_group_id>8816104669528</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Peaux très sèches, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Peaux très sèches, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2001</g:id>
@@ -601,7 +595,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2001</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>62.56 EUR</g:sale_price>
+      <g:sale_price>74.29 EUR</g:sale_price>
       <g:shipping_weight>0.146 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclatUnifiante.png?v=1753355834</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-eclat-unifiante_1.jpg?v=1753355834</g:additional_image_link>
@@ -612,7 +606,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Peaux très sèches, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Peaux très sèches, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3001</g:id>
@@ -628,7 +622,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3001</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>93.84 EUR</g:sale_price>
+      <g:sale_price>99.71 EUR</g:sale_price>
       <g:shipping_weight>0.219 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclatUnifiante.png?v=1753355834</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-eclat-unifiante_1.jpg?v=1753355834</g:additional_image_link>
@@ -639,7 +633,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Peaux très sèches, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Peaux très sèches, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>018</g:id>
@@ -656,7 +650,6 @@
       <g:gtin>3664448000083</g:gtin>
       <g:mpn>018</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>20.40 EUR</g:sale_price>
       <g:shipping_weight>0.082 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-hydra-intense-nuhanciam_72f9a7b0-f2f9-4d5f-a289-b749d8f0c66f.png?v=1753360658</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -664,9 +657,9 @@
       <g:item_group_id>8816104735064</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Peaux deshydratées, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Peaux deshydratées, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2018</g:id>
@@ -682,7 +675,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2018</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>40.80 EUR</g:sale_price>
+      <g:sale_price>48.45 EUR</g:sale_price>
       <g:shipping_weight>0.164 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-hydra-intense-nuhanciam_72f9a7b0-f2f9-4d5f-a289-b749d8f0c66f.png?v=1753360658</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -692,7 +685,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Peaux deshydratées, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Peaux deshydratées, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3018</g:id>
@@ -708,7 +701,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3018</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>61.20 EUR</g:sale_price>
+      <g:sale_price>65.02 EUR</g:sale_price>
       <g:shipping_weight>0.246 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-hydra-intense-nuhanciam_72f9a7b0-f2f9-4d5f-a289-b749d8f0c66f.png?v=1753360658</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -718,7 +711,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Peaux deshydratées, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Peaux deshydratées, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>035</g:id>
@@ -735,7 +728,6 @@
       <g:gtin>3664448000298</g:gtin>
       <g:mpn>035</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>15.44 EUR</g:sale_price>
       <g:shipping_weight>0.077 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/ficheactifsSolaire.jpg?v=1738257842</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/protection-solaire-spf-50_-_Nuhanciam.jpg?v=1759940868</g:additional_image_link>
@@ -744,9 +736,9 @@
       <g:item_group_id>9048283021656</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2035</g:id>
@@ -762,7 +754,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2035</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>30.88 EUR</g:sale_price>
+      <g:sale_price>36.67 EUR</g:sale_price>
       <g:shipping_weight>0.154 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/ficheactifsSolaire.jpg?v=1738257842</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/protection-solaire-spf-50_-_Nuhanciam.jpg?v=1759940868</g:additional_image_link>
@@ -773,7 +765,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3035</g:id>
@@ -789,7 +781,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3035</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>46.32 EUR</g:sale_price>
+      <g:sale_price>49.22 EUR</g:sale_price>
       <g:shipping_weight>0.231 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/ficheactifsSolaire.jpg?v=1738257842</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/protection-solaire-spf-50_-_Nuhanciam.jpg?v=1759940868</g:additional_image_link>
@@ -800,7 +792,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>050</g:id>
@@ -817,7 +809,6 @@
       <g:gtin>3664448000564</g:gtin>
       <g:mpn>050</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>20.00 EUR</g:sale_price>
       <g:shipping_weight>0.076 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-4.jpg?v=1775663162</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-3update.jpg?v=1784189946</g:additional_image_link>
@@ -830,9 +821,9 @@
       <g:item_group_id>15464790983000</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Solaire, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Solaire</g:custom_label_4>
     </item>
     <item>
       <g:id>2050</g:id>
@@ -848,7 +839,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2050</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>40.00 EUR</g:sale_price>
+      <g:sale_price>47.50 EUR</g:sale_price>
       <g:shipping_weight>0.152 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-4.jpg?v=1775663162</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-3update.jpg?v=1784189946</g:additional_image_link>
@@ -862,7 +853,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Solaire, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Solaire</g:custom_label_4>
     </item>
     <item>
       <g:id>3050</g:id>
@@ -878,7 +869,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3050</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>60.00 EUR</g:sale_price>
+      <g:sale_price>63.75 EUR</g:sale_price>
       <g:shipping_weight>0.228 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-4.jpg?v=1775663162</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-3update.jpg?v=1784189946</g:additional_image_link>
@@ -892,7 +883,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Solaire, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Solaire</g:custom_label_4>
     </item>
     <item>
       <g:id>043</g:id>
@@ -909,7 +900,6 @@
       <g:gtin>3664448000441</g:gtin>
       <g:mpn>043</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>12.30 EUR</g:sale_price>
       <g:shipping_weight>0.076 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-CremeTeinteeSPF50.jpg?v=1746539892</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-teintee-fonce-etui-2025.jpg?v=1746539892</g:additional_image_link>
@@ -924,9 +914,9 @@
       <g:item_group_id>14810759692632</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>044</g:id>
@@ -943,7 +933,6 @@
       <g:gtin>3664448000427</g:gtin>
       <g:mpn>044</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>12.30 EUR</g:sale_price>
       <g:shipping_weight>0.076 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-CremeTeinteeSPF50.jpg?v=1746539892</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-teintee-fonce-etui-2025.jpg?v=1746539892</g:additional_image_link>
@@ -958,9 +947,9 @@
       <g:item_group_id>14810759692632</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>045</g:id>
@@ -977,7 +966,6 @@
       <g:gtin>3664448000434</g:gtin>
       <g:mpn>045</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>12.30 EUR</g:sale_price>
       <g:shipping_weight>0.076 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-CremeTeinteeSPF50.jpg?v=1746539892</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-teintee-fonce-etui-2025.jpg?v=1746539892</g:additional_image_link>
@@ -992,9 +980,9 @@
       <g:item_group_id>14810759692632</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>252003</g:id>
@@ -1084,7 +1072,7 @@
       <g:product_type>Duo</g:product_type>
       <g:mpn>252004</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>27.84 EUR</g:sale_price>
+      <g:sale_price>37.12 EUR</g:sale_price>
       <g:shipping_weight>0.87 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -1093,7 +1081,7 @@
       <g:custom_label_1>Duo</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>bundle, Corps, Gommage corps, Routines, Soldes</g:custom_label_4>
+      <g:custom_label_4>bundle, Corps, Gommage corps, Routines</g:custom_label_4>
     </item>
     <item>
       <g:id>252007</g:id>
@@ -1159,7 +1147,7 @@
       <g:product_type>Duo</g:product_type>
       <g:mpn>252001</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>57.00 EUR</g:sale_price>
+      <g:sale_price>76.00 EUR</g:sale_price>
       <g:shipping_weight>0.406 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -1168,7 +1156,7 @@
       <g:custom_label_1>Duo</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>bundle, Lissage &amp; Fermeté, Routines, Soldes</g:custom_label_4>
+      <g:custom_label_4>bundle, Lissage &amp; Fermeté, Routines</g:custom_label_4>
     </item>
     <item>
       <g:id>252008</g:id>
@@ -1264,7 +1252,7 @@
       <g:product_type>Duo</g:product_type>
       <g:mpn>252011</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>40.38 EUR</g:sale_price>
+      <g:sale_price>53.84 EUR</g:sale_price>
       <g:shipping_weight>0.239 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -1273,7 +1261,7 @@
       <g:custom_label_1>Duo</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, bundle, Routines, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, bundle, Routines</g:custom_label_4>
     </item>
     <item>
       <g:id>005</g:id>
@@ -1290,7 +1278,6 @@
       <g:gtin>3401320851308</g:gtin>
       <g:mpn>005</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>11.58 EUR</g:sale_price>
       <g:shipping_weight>0.271 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/eau-micellaire-demaquillante-naturelle-efficace.png?v=1733757197</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/eau-micellaire-visage_-_Nuhanciam.jpg?v=1759941423</g:additional_image_link>
@@ -1299,9 +1286,9 @@
       <g:item_group_id>8815374991704</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>2005</g:id>
@@ -1317,7 +1304,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2005</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>23.16 EUR</g:sale_price>
+      <g:sale_price>36.67 EUR</g:sale_price>
       <g:shipping_weight>0.542 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/eau-micellaire-demaquillante-naturelle-efficace.png?v=1733757197</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/eau-micellaire-visage_-_Nuhanciam.jpg?v=1759941423</g:additional_image_link>
@@ -1328,7 +1315,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>3005</g:id>
@@ -1344,7 +1331,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3005</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>34.74 EUR</g:sale_price>
+      <g:sale_price>49.22 EUR</g:sale_price>
       <g:shipping_weight>0.813 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/eau-micellaire-demaquillante-naturelle-efficace.png?v=1733757197</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/eau-micellaire-visage_-_Nuhanciam.jpg?v=1759941423</g:additional_image_link>
@@ -1355,7 +1342,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>065</g:id>
@@ -1372,7 +1359,6 @@
       <g:gtin>3664448000632</g:gtin>
       <g:mpn>065</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>15.60 EUR</g:sale_price>
       <g:shipping_weight>0.061 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Emulsion-Lifestyle-ballons-NEW.jpg?v=1782393937</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1380,9 +1366,9 @@
       <g:item_group_id>15784212562264</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2065</g:id>
@@ -1398,7 +1384,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2065</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>31.20 EUR</g:sale_price>
+      <g:sale_price>37.05 EUR</g:sale_price>
       <g:shipping_weight>0.122 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Emulsion-Lifestyle-ballons-NEW.jpg?v=1782393937</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1408,7 +1394,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3065</g:id>
@@ -1424,7 +1410,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3065</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>46.80 EUR</g:sale_price>
+      <g:sale_price>49.75 EUR</g:sale_price>
       <g:shipping_weight>0.183 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Emulsion-Lifestyle-ballons-NEW.jpg?v=1782393937</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1434,7 +1420,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>004</g:id>
@@ -1451,7 +1437,6 @@
       <g:gtin>3401320851247</g:gtin>
       <g:mpn>004</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>20.40 EUR</g:sale_price>
       <g:shipping_weight>0.072 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/fluide-matifiant-unifiant_1.jpg?v=1753798439</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1459,9 +1444,9 @@
       <g:item_group_id>8816104702296</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2004</g:id>
@@ -1477,7 +1462,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2004</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>40.80 EUR</g:sale_price>
+      <g:sale_price>64.60 EUR</g:sale_price>
       <g:shipping_weight>0.144 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/fluide-matifiant-unifiant_1.jpg?v=1753798439</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1487,7 +1472,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3004</g:id>
@@ -1503,7 +1488,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3004</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>61.20 EUR</g:sale_price>
+      <g:sale_price>86.70 EUR</g:sale_price>
       <g:shipping_weight>0.216 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/fluide-matifiant-unifiant_1.jpg?v=1753798439</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1513,7 +1498,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>019</g:id>
@@ -1530,7 +1515,6 @@
       <g:gtin>3664448000038</g:gtin>
       <g:mpn>019</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>12.40 EUR</g:sale_price>
       <g:shipping_weight>580.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-sans-savon-naturel.png?v=1753354050</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-hydratant-peau-seche.webp?v=1753354050</g:additional_image_link>
@@ -1539,9 +1523,9 @@
       <g:item_group_id>8816104866136</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Gel douche, Peaux deshydratées, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Gel douche, Peaux deshydratées</g:custom_label_4>
     </item>
     <item>
       <g:id>2019</g:id>
@@ -1557,7 +1541,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>2019</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>24.80 EUR</g:sale_price>
+      <g:sale_price>29.45 EUR</g:sale_price>
       <g:shipping_weight>1160.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-sans-savon-naturel.png?v=1753354050</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-hydratant-peau-seche.webp?v=1753354050</g:additional_image_link>
@@ -1568,7 +1552,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Gel douche, Peaux deshydratées, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Gel douche, Peaux deshydratées</g:custom_label_4>
     </item>
     <item>
       <g:id>3019</g:id>
@@ -1584,7 +1568,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>3019</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>37.20 EUR</g:sale_price>
+      <g:sale_price>39.52 EUR</g:sale_price>
       <g:shipping_weight>1740.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-sans-savon-naturel.png?v=1753354050</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-hydratant-peau-seche.webp?v=1753354050</g:additional_image_link>
@@ -1595,7 +1579,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Gel douche, Peaux deshydratées, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Gel douche, Peaux deshydratées</g:custom_label_4>
     </item>
     <item>
       <g:id>014</g:id>
@@ -1612,7 +1596,6 @@
       <g:gtin>3401360213562</g:gtin>
       <g:mpn>014</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>8.10 EUR</g:sale_price>
       <g:shipping_weight>0.239 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Gelnettoyant.png?v=1738248225</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1620,9 +1603,9 @@
       <g:item_group_id>8815351562584</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2014</g:id>
@@ -1638,7 +1621,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2014</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>16.20 EUR</g:sale_price>
+      <g:sale_price>25.65 EUR</g:sale_price>
       <g:shipping_weight>0.478 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Gelnettoyant.png?v=1738248225</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1648,7 +1631,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3014</g:id>
@@ -1664,7 +1647,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3014</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>24.30 EUR</g:sale_price>
+      <g:sale_price>34.42 EUR</g:sale_price>
       <g:shipping_weight>0.717 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Gelnettoyant.png?v=1738248225</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1674,7 +1657,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>048</g:id>
@@ -1691,16 +1674,15 @@
       <g:gtin>3664448000458</g:gtin>
       <g:mpn>048</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>5.52 EUR</g:sale_price>
       <g:shipping_weight>0.075 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15767307878744</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2048</g:id>
@@ -1716,7 +1698,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2048</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>11.04 EUR</g:sale_price>
+      <g:sale_price>13.10 EUR</g:sale_price>
       <g:shipping_weight>0.15 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -1725,7 +1707,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3048</g:id>
@@ -1741,7 +1723,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3048</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>16.56 EUR</g:sale_price>
+      <g:sale_price>17.60 EUR</g:sale_price>
       <g:shipping_weight>0.225 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -1750,7 +1732,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>053</g:id>
@@ -1767,7 +1749,6 @@
       <g:gtin>3664448000571</g:gtin>
       <g:mpn>053</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>11.92 EUR</g:sale_price>
       <g:shipping_weight>0.542 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Gel-Dermo-Lifestyle-Texture.jpg?v=1781624040</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1775,9 +1756,9 @@
       <g:item_group_id>15708411593048</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Corps, Gel douche, Soin corps, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Corps, Gel douche, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>2053</g:id>
@@ -1793,7 +1774,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2053</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>23.84 EUR</g:sale_price>
+      <g:sale_price>28.30 EUR</g:sale_price>
       <g:shipping_weight>1.08 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Gel-Dermo-Lifestyle-Texture.jpg?v=1781624040</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1803,7 +1784,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Corps, Gel douche, Soin corps, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Corps, Gel douche, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>3053</g:id>
@@ -1819,7 +1800,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3053</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>35.76 EUR</g:sale_price>
+      <g:sale_price>38.00 EUR</g:sale_price>
       <g:shipping_weight>1.63 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Gel-Dermo-Lifestyle-Texture.jpg?v=1781624040</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1829,7 +1810,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Corps, Gel douche, Soin corps, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Corps, Gel douche, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>068</g:id>
@@ -1846,7 +1827,6 @@
       <g:gtin>3664448000700</g:gtin>
       <g:mpn>068</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>5.52 EUR</g:sale_price>
       <g:shipping_weight>62.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Texture-gel-Dermo-Fond-optim.jpg?v=1782140900</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1854,9 +1834,9 @@
       <g:item_group_id>15824850911576</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Corps, Gel douche, Soin corps, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Corps, Gel douche, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>2068</g:id>
@@ -1872,7 +1852,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2068</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>11.04 EUR</g:sale_price>
+      <g:sale_price>13.10 EUR</g:sale_price>
       <g:shipping_weight>126.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Texture-gel-Dermo-Fond-optim.jpg?v=1782140900</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1882,7 +1862,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Corps, Gel douche, Soin corps, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Corps, Gel douche, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>3068</g:id>
@@ -1898,7 +1878,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3068</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>16.56 EUR</g:sale_price>
+      <g:sale_price>17.60 EUR</g:sale_price>
       <g:shipping_weight>0.189 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Texture-gel-Dermo-Fond-optim.jpg?v=1782140900</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -1908,7 +1888,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Corps, Gel douche, Soin corps, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Corps, Gel douche, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>026</g:id>
@@ -1925,7 +1905,6 @@
       <g:gtin>3664448000212</g:gtin>
       <g:mpn>026</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>15.92 EUR</g:sale_price>
       <g:shipping_weight>0.237 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-corps-grain-naturel.png?v=1733830242</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-exfoliant-corps-efficace.webp?v=1733830242</g:additional_image_link>
@@ -1936,9 +1915,9 @@
       <g:item_group_id>8816104931672</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Gommage corps, Soldes, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Corps, Gommage corps, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>2026</g:id>
@@ -1954,7 +1933,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>2026</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>31.84 EUR</g:sale_price>
+      <g:sale_price>37.81 EUR</g:sale_price>
       <g:shipping_weight>0.474 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-corps-grain-naturel.png?v=1733830242</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-exfoliant-corps-efficace.webp?v=1733830242</g:additional_image_link>
@@ -1967,7 +1946,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Gommage corps, Soldes, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Corps, Gommage corps, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>3026</g:id>
@@ -1983,7 +1962,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>3026</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>47.76 EUR</g:sale_price>
+      <g:sale_price>50.74 EUR</g:sale_price>
       <g:shipping_weight>0.711 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-corps-grain-naturel.png?v=1733830242</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-exfoliant-corps-efficace.webp?v=1733830242</g:additional_image_link>
@@ -1996,7 +1975,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Gommage corps, Soldes, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Corps, Gommage corps, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>028</g:id>
@@ -2013,7 +1992,6 @@
       <g:gtin>3664448000229</g:gtin>
       <g:mpn>028</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>5.52 EUR</g:sale_price>
       <g:shipping_weight>0.07 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Texture-gommage-corps-eclat.jpg?v=1779366221</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -2021,9 +1999,9 @@
       <g:item_group_id>8914040783192</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Soin corps, Soldes, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Corps, Soin corps, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>2028</g:id>
@@ -2039,7 +2017,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>2028</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>11.04 EUR</g:sale_price>
+      <g:sale_price>13.10 EUR</g:sale_price>
       <g:shipping_weight>0.14 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Texture-gommage-corps-eclat.jpg?v=1779366221</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -2049,7 +2027,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Soin corps, Soldes, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Corps, Soin corps, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>3028</g:id>
@@ -2065,7 +2043,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>3028</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>16.56 EUR</g:sale_price>
+      <g:sale_price>17.60 EUR</g:sale_price>
       <g:shipping_weight>0.21 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Texture-gommage-corps-eclat.jpg?v=1779366221</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -2075,7 +2053,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Soin corps, Soldes, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Corps, Soin corps, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>003</g:id>
@@ -2092,7 +2070,6 @@
       <g:gtin>3401398128050</g:gtin>
       <g:mpn>003</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>20.40 EUR</g:sale_price>
       <g:shipping_weight>0.129 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-doux-nuhanciam.png?v=1753360717</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-doux_1.jpg?v=1753360717</g:additional_image_link>
@@ -2101,9 +2078,9 @@
       <g:item_group_id>8815375024472</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Masques &amp; Gommages, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Masques &amp; Gommages, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>2003</g:id>
@@ -2119,7 +2096,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2003</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>40.80 EUR</g:sale_price>
+      <g:sale_price>48.45 EUR</g:sale_price>
       <g:shipping_weight>0.258 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-doux-nuhanciam.png?v=1753360717</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-doux_1.jpg?v=1753360717</g:additional_image_link>
@@ -2130,7 +2107,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Masques &amp; Gommages, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Masques &amp; Gommages, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>3003</g:id>
@@ -2146,7 +2123,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3003</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>61.20 EUR</g:sale_price>
+      <g:sale_price>65.02 EUR</g:sale_price>
       <g:shipping_weight>0.387 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-doux-nuhanciam.png?v=1753360717</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-doux_1.jpg?v=1753360717</g:additional_image_link>
@@ -2157,7 +2134,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Masques &amp; Gommages, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Masques &amp; Gommages, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>052</g:id>
@@ -2174,7 +2151,6 @@
       <g:gtin>3664448000557</g:gtin>
       <g:mpn>052</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>12.40 EUR</g:sale_price>
       <g:shipping_weight>590.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam2.jpg?v=1775148331</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam3.jpg?v=1775148331</g:additional_image_link>
@@ -2190,9 +2166,9 @@
       <g:item_group_id>15516670591320</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>2052</g:id>
@@ -2208,7 +2184,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>2052</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>24.80 EUR</g:sale_price>
+      <g:sale_price>29.45 EUR</g:sale_price>
       <g:shipping_weight>1180.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam2.jpg?v=1775148331</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam3.jpg?v=1775148331</g:additional_image_link>
@@ -2225,7 +2201,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>3052</g:id>
@@ -2241,7 +2217,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>3052</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>37.20 EUR</g:sale_price>
+      <g:sale_price>39.52 EUR</g:sale_price>
       <g:shipping_weight>1770.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam2.jpg?v=1775148331</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam3.jpg?v=1775148331</g:additional_image_link>
@@ -2259,7 +2235,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>067</g:id>
@@ -2276,7 +2252,6 @@
       <g:gtin>3664448000687</g:gtin>
       <g:mpn>067</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>5.52 EUR</g:sale_price>
       <g:shipping_weight>0.067 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam2.jpg?v=1775148331</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam3.jpg?v=1775148331</g:additional_image_link>
@@ -2286,9 +2261,9 @@
       <g:item_group_id>15784110850392</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>2067</g:id>
@@ -2304,7 +2279,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>2067</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>11.04 EUR</g:sale_price>
+      <g:sale_price>13.10 EUR</g:sale_price>
       <g:shipping_weight>0.134 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam2.jpg?v=1775148331</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam3.jpg?v=1775148331</g:additional_image_link>
@@ -2316,7 +2291,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>3067</g:id>
@@ -2332,7 +2307,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>3067</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>16.56 EUR</g:sale_price>
+      <g:sale_price>17.60 EUR</g:sale_price>
       <g:shipping_weight>0.201 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam2.jpg?v=1775148331</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam3.jpg?v=1775148331</g:additional_image_link>
@@ -2344,7 +2319,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>010</g:id>
@@ -2361,7 +2336,6 @@
       <g:gtin>3401381479329</g:gtin>
       <g:mpn>010</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>21.60 EUR</g:sale_price>
       <g:shipping_weight>0.173 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/melange-huiles-naturel-corps-cheveux.png?v=1733830264</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/huiles-nourrissantes-peau-tres-seche.webp?v=1733830264</g:additional_image_link>
@@ -2371,9 +2345,9 @@
       <g:item_group_id>8816105095512</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Huile de soin, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Huile de soin, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>2010</g:id>
@@ -2389,7 +2363,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>2010</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>43.20 EUR</g:sale_price>
+      <g:sale_price>51.30 EUR</g:sale_price>
       <g:shipping_weight>0.346 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/melange-huiles-naturel-corps-cheveux.png?v=1733830264</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/huiles-nourrissantes-peau-tres-seche.webp?v=1733830264</g:additional_image_link>
@@ -2401,7 +2375,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Huile de soin, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Huile de soin, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>3010</g:id>
@@ -2417,7 +2391,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>3010</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>64.80 EUR</g:sale_price>
+      <g:sale_price>68.85 EUR</g:sale_price>
       <g:shipping_weight>0.519 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/melange-huiles-naturel-corps-cheveux.png?v=1733830264</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/huiles-nourrissantes-peau-tres-seche.webp?v=1733830264</g:additional_image_link>
@@ -2429,7 +2403,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Huile de soin, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Huile de soin, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>023</g:id>
@@ -2446,7 +2420,6 @@
       <g:gtin>3664448000250</g:gtin>
       <g:mpn>023</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>28.80 EUR</g:sale_price>
       <g:shipping_weight>0.633 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corps-anti-taches-brunes-naturel.png?v=1733830283</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corps-anti-taches-peau-noire-matte-metisse.webp?v=1733830283</g:additional_image_link>
@@ -2456,9 +2429,9 @@
       <g:item_group_id>8816105161048</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Corps, Laits &amp; Baumes, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Corps, Laits &amp; Baumes</g:custom_label_4>
     </item>
     <item>
       <g:id>2023</g:id>
@@ -2474,7 +2447,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>2023</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>57.60 EUR</g:sale_price>
+      <g:sale_price>68.40 EUR</g:sale_price>
       <g:shipping_weight>1.266 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corps-anti-taches-brunes-naturel.png?v=1733830283</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corps-anti-taches-peau-noire-matte-metisse.webp?v=1733830283</g:additional_image_link>
@@ -2486,7 +2459,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Corps, Laits &amp; Baumes, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Corps, Laits &amp; Baumes</g:custom_label_4>
     </item>
     <item>
       <g:id>3023</g:id>
@@ -2502,7 +2475,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>3023</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>86.40 EUR</g:sale_price>
+      <g:sale_price>91.80 EUR</g:sale_price>
       <g:shipping_weight>1.899 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corps-anti-taches-brunes-naturel.png?v=1733830283</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corps-anti-taches-peau-noire-matte-metisse.webp?v=1733830283</g:additional_image_link>
@@ -2514,7 +2487,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Corps, Laits &amp; Baumes, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Corps, Laits &amp; Baumes</g:custom_label_4>
     </item>
     <item>
       <g:id>015</g:id>
@@ -2531,7 +2504,6 @@
       <g:gtin>3401360226883</g:gtin>
       <g:mpn>015</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>21.20 EUR</g:sale_price>
       <g:shipping_weight>563.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-hydratant-corps-naturel-vegan.png?v=1753354117</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corporel-hydratation-continue.webp?v=1753354117</g:additional_image_link>
@@ -2540,9 +2512,9 @@
       <g:item_group_id>8816104997208</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux deshydratées, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux deshydratées</g:custom_label_4>
     </item>
     <item>
       <g:id>2015</g:id>
@@ -2558,7 +2530,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>2015</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>42.40 EUR</g:sale_price>
+      <g:sale_price>50.35 EUR</g:sale_price>
       <g:shipping_weight>1126.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-hydratant-corps-naturel-vegan.png?v=1753354117</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corporel-hydratation-continue.webp?v=1753354117</g:additional_image_link>
@@ -2569,7 +2541,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux deshydratées, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux deshydratées</g:custom_label_4>
     </item>
     <item>
       <g:id>3015</g:id>
@@ -2585,7 +2557,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>3015</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>63.60 EUR</g:sale_price>
+      <g:sale_price>67.58 EUR</g:sale_price>
       <g:shipping_weight>1689.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-hydratant-corps-naturel-vegan.png?v=1753354117</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corporel-hydratation-continue.webp?v=1753354117</g:additional_image_link>
@@ -2596,7 +2568,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux deshydratées, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux deshydratées</g:custom_label_4>
     </item>
     <item>
       <g:id>022</g:id>
@@ -2613,16 +2585,15 @@
       <g:gtin>3664448000052</g:gtin>
       <g:mpn>022</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>5.52 EUR</g:sale_price>
       <g:shipping_weight>0.07 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>8914046746968</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Peaux deshydratées, Soin corps, Soldes</g:custom_label_4>
+      <g:custom_label_4>Peaux deshydratées, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>2022</g:id>
@@ -2638,7 +2609,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>2022</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>11.04 EUR</g:sale_price>
+      <g:sale_price>13.10 EUR</g:sale_price>
       <g:shipping_weight>0.14 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -2647,7 +2618,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Peaux deshydratées, Soin corps, Soldes</g:custom_label_4>
+      <g:custom_label_4>Peaux deshydratées, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>3022</g:id>
@@ -2663,7 +2634,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>3022</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>16.56 EUR</g:sale_price>
+      <g:sale_price>17.60 EUR</g:sale_price>
       <g:shipping_weight>0.21 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -2672,7 +2643,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Peaux deshydratées, Soin corps, Soldes</g:custom_label_4>
+      <g:custom_label_4>Peaux deshydratées, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>039</g:id>
@@ -2689,7 +2660,6 @@
       <g:gtin>3664448000380</g:gtin>
       <g:mpn>039</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>15.00 EUR</g:sale_price>
       <g:shipping_weight>0.162 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lotion-peeling-purete.png?v=1758208857</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lotion-peeling-douce-pour-la-peau_-_Nuhanciam.jpg?v=1759940360</g:additional_image_link>
@@ -2698,9 +2668,9 @@
       <g:item_group_id>15068608659800</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>2039</g:id>
@@ -2716,7 +2686,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2039</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>30.00 EUR</g:sale_price>
+      <g:sale_price>47.50 EUR</g:sale_price>
       <g:shipping_weight>0.324 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lotion-peeling-purete.png?v=1758208857</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lotion-peeling-douce-pour-la-peau_-_Nuhanciam.jpg?v=1759940360</g:additional_image_link>
@@ -2727,7 +2697,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>3039</g:id>
@@ -2743,7 +2713,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3039</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>45.00 EUR</g:sale_price>
+      <g:sale_price>63.75 EUR</g:sale_price>
       <g:shipping_weight>0.486 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lotion-peeling-purete.png?v=1758208857</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lotion-peeling-douce-pour-la-peau_-_Nuhanciam.jpg?v=1759940360</g:additional_image_link>
@@ -2754,7 +2724,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>008</g:id>
@@ -2771,7 +2741,6 @@
       <g:gtin>3401564459674</g:gtin>
       <g:mpn>008</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>20.40 EUR</g:sale_price>
       <g:shipping_weight>0.127 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/masquesoinpureteeclat.png?v=1753862042</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-masque-visage_-_Nuhanciam.jpg?v=1759941033</g:additional_image_link>
@@ -2780,9 +2749,9 @@
       <g:item_group_id>8816122921304</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Masques &amp; Gommages, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Masques &amp; Gommages, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>2008</g:id>
@@ -2798,7 +2767,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2008</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>40.80 EUR</g:sale_price>
+      <g:sale_price>48.45 EUR</g:sale_price>
       <g:shipping_weight>0.254 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/masquesoinpureteeclat.png?v=1753862042</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-masque-visage_-_Nuhanciam.jpg?v=1759941033</g:additional_image_link>
@@ -2809,7 +2778,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Masques &amp; Gommages, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Masques &amp; Gommages, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>3008</g:id>
@@ -2825,7 +2794,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3008</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>61.20 EUR</g:sale_price>
+      <g:sale_price>65.02 EUR</g:sale_price>
       <g:shipping_weight>0.381 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/masquesoinpureteeclat.png?v=1753862042</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-masque-visage_-_Nuhanciam.jpg?v=1759941033</g:additional_image_link>
@@ -2836,7 +2805,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Masques &amp; Gommages, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Masques &amp; Gommages, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>006</g:id>
@@ -2853,7 +2822,6 @@
       <g:gtin>3401340767733</g:gtin>
       <g:mpn>006</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>17.52 EUR</g:sale_price>
       <g:shipping_weight>0.266 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/nettoyant-moussant-visage-naturel-sans-savon.png?v=1764751220</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Packshot-benefices-Mousse-nettoyante-demaquillante-optim.jpg?v=1777563647</g:additional_image_link>
@@ -2862,9 +2830,9 @@
       <g:item_group_id>8809905619288</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>2006</g:id>
@@ -2880,7 +2848,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2006</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>35.04 EUR</g:sale_price>
+      <g:sale_price>41.61 EUR</g:sale_price>
       <g:shipping_weight>0.532 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/nettoyant-moussant-visage-naturel-sans-savon.png?v=1764751220</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Packshot-benefices-Mousse-nettoyante-demaquillante-optim.jpg?v=1777563647</g:additional_image_link>
@@ -2891,7 +2859,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>3006</g:id>
@@ -2907,7 +2875,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3006</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>52.56 EUR</g:sale_price>
+      <g:sale_price>55.84 EUR</g:sale_price>
       <g:shipping_weight>0.798 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/nettoyant-moussant-visage-naturel-sans-savon.png?v=1764751220</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Packshot-benefices-Mousse-nettoyante-demaquillante-optim.jpg?v=1777563647</g:additional_image_link>
@@ -2918,7 +2886,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>016</g:id>
@@ -2935,16 +2903,15 @@
       <g:gtin>3401360275300</g:gtin>
       <g:mpn>016</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>7.92 EUR</g:sale_price>
       <g:shipping_weight>0.08 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15485314924888</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>2016</g:id>
@@ -2960,7 +2927,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2016</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>15.84 EUR</g:sale_price>
+      <g:sale_price>18.81 EUR</g:sale_price>
       <g:shipping_weight>0.16 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -2969,7 +2936,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>3016</g:id>
@@ -2985,7 +2952,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3016</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>23.76 EUR</g:sale_price>
+      <g:sale_price>25.25 EUR</g:sale_price>
       <g:shipping_weight>0.24 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -2994,7 +2961,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Soldes, Visage, Éclat &amp; Douceur</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
       <g:id>038</g:id>
@@ -3011,7 +2978,6 @@
       <g:gtin>3664448000359</g:gtin>
       <g:mpn>038</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>16.40 EUR</g:sale_price>
       <g:shipping_weight>0.162 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-hydratante-nuhanciam.png?v=1758267825</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -3019,9 +2985,9 @@
       <g:item_group_id>15068604203352</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Peaux deshydratées, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Peaux deshydratées, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2038</g:id>
@@ -3037,7 +3003,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2038</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>32.80 EUR</g:sale_price>
+      <g:sale_price>38.95 EUR</g:sale_price>
       <g:shipping_weight>0.324 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-hydratante-nuhanciam.png?v=1758267825</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -3047,7 +3013,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Peaux deshydratées, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Peaux deshydratées, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3038</g:id>
@@ -3063,7 +3029,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3038</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>49.20 EUR</g:sale_price>
+      <g:sale_price>52.27 EUR</g:sale_price>
       <g:shipping_weight>0.486 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-hydratante-nuhanciam.png?v=1758267825</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -3073,7 +3039,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Peaux deshydratées, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Peaux deshydratées, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>040</g:id>
@@ -3090,7 +3056,6 @@
       <g:gtin>3664448000373</g:gtin>
       <g:mpn>040</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>16.40 EUR</g:sale_price>
       <g:shipping_weight>0.162 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse_nettoyante_peeling.png?v=1758209011</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -3098,9 +3063,9 @@
       <g:item_group_id>15068606005592</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2040</g:id>
@@ -3116,7 +3081,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2040</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>32.80 EUR</g:sale_price>
+      <g:sale_price>38.95 EUR</g:sale_price>
       <g:shipping_weight>0.324 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse_nettoyante_peeling.png?v=1758209011</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -3126,7 +3091,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3040</g:id>
@@ -3142,7 +3107,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3040</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>49.20 EUR</g:sale_price>
+      <g:sale_price>52.27 EUR</g:sale_price>
       <g:shipping_weight>0.486 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse_nettoyante_peeling.png?v=1758209011</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -3152,7 +3117,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>049</g:id>
@@ -3169,16 +3134,15 @@
       <g:gtin>3664448000533</g:gtin>
       <g:mpn>049</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>7.92 EUR</g:sale_price>
       <g:shipping_weight>0.08 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15765250834776</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2049</g:id>
@@ -3194,7 +3158,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2049</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>15.84 EUR</g:sale_price>
+      <g:sale_price>18.81 EUR</g:sale_price>
       <g:shipping_weight>0.162 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -3203,7 +3167,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3049</g:id>
@@ -3219,7 +3183,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3049</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>23.76 EUR</g:sale_price>
+      <g:sale_price>25.25 EUR</g:sale_price>
       <g:shipping_weight>0.24 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -3228,7 +3192,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>032</g:id>
@@ -3245,7 +3209,6 @@
       <g:gtin>3664448000342</g:gtin>
       <g:mpn>032</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>16.40 EUR</g:sale_price>
       <g:shipping_weight>0.21 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-MousseVitamineC.jpg?v=1764751055</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-vitamine-c-eclat-de-la-peau_-_Nuhanciam.jpg?v=1764751055</g:additional_image_link>
@@ -3254,9 +3217,9 @@
       <g:item_group_id>14810758775128</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Lissage &amp; Fermeté, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Lissage &amp; Fermeté, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2032</g:id>
@@ -3272,7 +3235,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2032</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>32.80 EUR</g:sale_price>
+      <g:sale_price>38.95 EUR</g:sale_price>
       <g:shipping_weight>0.42 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-MousseVitamineC.jpg?v=1764751055</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-vitamine-c-eclat-de-la-peau_-_Nuhanciam.jpg?v=1764751055</g:additional_image_link>
@@ -3283,7 +3246,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Lissage &amp; Fermeté, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Lissage &amp; Fermeté, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3032</g:id>
@@ -3299,7 +3262,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3032</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>49.20 EUR</g:sale_price>
+      <g:sale_price>52.27 EUR</g:sale_price>
       <g:shipping_weight>0.63 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-MousseVitamineC.jpg?v=1764751055</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-vitamine-c-eclat-de-la-peau_-_Nuhanciam.jpg?v=1764751055</g:additional_image_link>
@@ -3310,7 +3273,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Lissage &amp; Fermeté, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Lissage &amp; Fermeté, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>115</g:id>
@@ -3327,7 +3290,7 @@
       <g:gtin>3664448000649</g:gtin>
       <g:mpn>115</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>23.36 EUR</g:sale_price>
+      <g:sale_price>19.30 EUR</g:sale_price>
       <g:shipping_weight>166.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -3336,7 +3299,7 @@
       <g:custom_label_1>Lot Promo</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Solaire, Soldes</g:custom_label_4>
+      <g:custom_label_4>Solaire</g:custom_label_4>
     </item>
     <item>
       <g:id>255016</g:id>
@@ -3476,7 +3439,6 @@
       <g:gtin>3664448000335</g:gtin>
       <g:mpn>029</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>25.52 EUR</g:sale_price>
       <g:shipping_weight>0.162 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Fiche-Meilleurs-Actifs-Serum-Anti-Imperfections.jpg?v=1743672443</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/NUHANCIAM-SERUMANTI-IMPERFECTIONS_HD2025.png?v=1743509557</g:additional_image_link>
@@ -3486,9 +3448,9 @@
       <g:item_group_id>14810755334488</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2029</g:id>
@@ -3504,7 +3466,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2029</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>51.04 EUR</g:sale_price>
+      <g:sale_price>60.61 EUR</g:sale_price>
       <g:shipping_weight>0.324 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Fiche-Meilleurs-Actifs-Serum-Anti-Imperfections.jpg?v=1743672443</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/NUHANCIAM-SERUMANTI-IMPERFECTIONS_HD2025.png?v=1743509557</g:additional_image_link>
@@ -3516,7 +3478,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3029</g:id>
@@ -3532,7 +3494,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3029</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>76.56 EUR</g:sale_price>
+      <g:sale_price>81.34 EUR</g:sale_price>
       <g:shipping_weight>0.486 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Fiche-Meilleurs-Actifs-Serum-Anti-Imperfections.jpg?v=1743672443</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/NUHANCIAM-SERUMANTI-IMPERFECTIONS_HD2025.png?v=1743509557</g:additional_image_link>
@@ -3544,7 +3506,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>031</g:id>
@@ -3561,7 +3523,6 @@
       <g:gtin>3664448000274</g:gtin>
       <g:mpn>031</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>28.80 EUR</g:sale_price>
       <g:shipping_weight>0.152 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam.png?v=1738082665</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum_anti_rides_fermete_2025.jpg?v=1738082665</g:additional_image_link>
@@ -3572,9 +3533,9 @@
       <g:item_group_id>8816114336088</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Lissage &amp; Fermeté, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Lissage &amp; Fermeté, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2031</g:id>
@@ -3590,7 +3551,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2031</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>57.60 EUR</g:sale_price>
+      <g:sale_price>91.20 EUR</g:sale_price>
       <g:shipping_weight>0.304 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam.png?v=1738082665</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum_anti_rides_fermete_2025.jpg?v=1738082665</g:additional_image_link>
@@ -3603,7 +3564,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Lissage &amp; Fermeté, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Lissage &amp; Fermeté, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3031</g:id>
@@ -3619,7 +3580,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3031</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>86.40 EUR</g:sale_price>
+      <g:sale_price>122.40 EUR</g:sale_price>
       <g:shipping_weight>0.456 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam.png?v=1738082665</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum_anti_rides_fermete_2025.jpg?v=1738082665</g:additional_image_link>
@@ -3632,7 +3593,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Lissage &amp; Fermeté, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Lissage &amp; Fermeté, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>011</g:id>
@@ -3649,7 +3610,6 @@
       <g:gtin>3401360084049</g:gtin>
       <g:mpn>011</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>41.60 EUR</g:sale_price>
       <g:shipping_weight>0.162 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum-anti-taches-naturel-peau-noire-mate-metissee.png?v=1743432341</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum-anti-taches-brunes-efficace.jpg?v=1743432341</g:additional_image_link>
@@ -3659,9 +3619,9 @@
       <g:item_group_id>8815375090008</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2011</g:id>
@@ -3677,7 +3637,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2011</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>83.20 EUR</g:sale_price>
+      <g:sale_price>98.80 EUR</g:sale_price>
       <g:shipping_weight>0.324 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum-anti-taches-naturel-peau-noire-mate-metissee.png?v=1743432341</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum-anti-taches-brunes-efficace.jpg?v=1743432341</g:additional_image_link>
@@ -3689,7 +3649,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3011</g:id>
@@ -3705,7 +3665,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3011</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>124.80 EUR</g:sale_price>
+      <g:sale_price>132.60 EUR</g:sale_price>
       <g:shipping_weight>0.486 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum-anti-taches-naturel-peau-noire-mate-metissee.png?v=1743432341</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum-anti-taches-brunes-efficace.jpg?v=1743432341</g:additional_image_link>
@@ -3717,7 +3677,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>046</g:id>
@@ -3734,7 +3694,6 @@
       <g:gtin>3664448000410</g:gtin>
       <g:mpn>046</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>38.40 EUR</g:sale_price>
       <g:shipping_weight>0.162 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-SerumEclaircissantTaches.jpg?v=1743509718</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SERUMECLAIRCISSANTETACHES.png?v=1743509718</g:additional_image_link>
@@ -3745,9 +3704,9 @@
       <g:item_group_id>14810757890392</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2046</g:id>
@@ -3763,7 +3722,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2046</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>76.80 EUR</g:sale_price>
+      <g:sale_price>91.20 EUR</g:sale_price>
       <g:shipping_weight>0.324 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-SerumEclaircissantTaches.jpg?v=1743509718</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SERUMECLAIRCISSANTETACHES.png?v=1743509718</g:additional_image_link>
@@ -3776,7 +3735,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3046</g:id>
@@ -3792,7 +3751,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3046</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>115.20 EUR</g:sale_price>
+      <g:sale_price>122.40 EUR</g:sale_price>
       <g:shipping_weight>0.486 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-SerumEclaircissantTaches.jpg?v=1743509718</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SERUMECLAIRCISSANTETACHES.png?v=1743509718</g:additional_image_link>
@@ -3805,7 +3764,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>033</g:id>
@@ -3822,7 +3781,6 @@
       <g:gtin>3664448000366</g:gtin>
       <g:mpn>033</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>28.80 EUR</g:sale_price>
       <g:shipping_weight>0.162 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.003.jpg?v=1776169718</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.004.jpg?v=1776169718</g:additional_image_link>
@@ -3837,9 +3795,9 @@
       <g:item_group_id>15464789279064</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Nouveauté, Peaux deshydratées, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Nouveauté, Peaux deshydratées, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2033</g:id>
@@ -3855,7 +3813,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2033</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>57.60 EUR</g:sale_price>
+      <g:sale_price>68.40 EUR</g:sale_price>
       <g:shipping_weight>0.324 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.003.jpg?v=1776169718</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.004.jpg?v=1776169718</g:additional_image_link>
@@ -3871,7 +3829,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Nouveauté, Peaux deshydratées, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Nouveauté, Peaux deshydratées, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3033</g:id>
@@ -3887,7 +3845,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3033</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>86.40 EUR</g:sale_price>
+      <g:sale_price>91.80 EUR</g:sale_price>
       <g:shipping_weight>0.486 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.003.jpg?v=1776169718</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.004.jpg?v=1776169718</g:additional_image_link>
@@ -3903,7 +3861,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Nouveauté, Peaux deshydratées, Soldes, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Nouveauté, Peaux deshydratées, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>036</g:id>
@@ -3920,7 +3878,6 @@
       <g:gtin>3664448000328</g:gtin>
       <g:mpn>036</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>28.80 EUR</g:sale_price>
       <g:shipping_weight>0.56 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin-hydratant-corps-naturel-peau-tres-seche.png?v=1733852216</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin-corps-extreme_1.jpg?v=1733830372</g:additional_image_link>
@@ -3930,9 +3887,9 @@
       <g:item_group_id>8816125968728</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>2036</g:id>
@@ -3948,7 +3905,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>2036</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>57.60 EUR</g:sale_price>
+      <g:sale_price>68.40 EUR</g:sale_price>
       <g:shipping_weight>1.12 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin-hydratant-corps-naturel-peau-tres-seche.png?v=1733852216</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin-corps-extreme_1.jpg?v=1733830372</g:additional_image_link>
@@ -3960,7 +3917,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>3036</g:id>
@@ -3976,7 +3933,7 @@
       <g:product_type>Corps</g:product_type>
       <g:mpn>3036</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>86.40 EUR</g:sale_price>
+      <g:sale_price>91.80 EUR</g:sale_price>
       <g:shipping_weight>1.68 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin-hydratant-corps-naturel-peau-tres-seche.png?v=1733852216</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin-corps-extreme_1.jpg?v=1733830372</g:additional_image_link>
@@ -3988,7 +3945,7 @@
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soldes</g:custom_label_4>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>030</g:id>
@@ -4005,7 +3962,6 @@
       <g:gtin>3664448000243</g:gtin>
       <g:mpn>030</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>37.60 EUR</g:sale_price>
       <g:shipping_weight>0.254 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam_4.jpg?v=1744634563</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin.png?v=1744634566</g:additional_image_link>
@@ -4014,9 +3970,9 @@
       <g:item_group_id>8815375319384</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Lissage &amp; Fermeté, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Lissage &amp; Fermeté, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>2030</g:id>
@@ -4032,7 +3988,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2030</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>75.20 EUR</g:sale_price>
+      <g:sale_price>89.30 EUR</g:sale_price>
       <g:shipping_weight>0.508 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam_4.jpg?v=1744634563</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin.png?v=1744634566</g:additional_image_link>
@@ -4043,7 +3999,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Lissage &amp; Fermeté, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Lissage &amp; Fermeté, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>3030</g:id>
@@ -4059,7 +4015,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3030</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>112.80 EUR</g:sale_price>
+      <g:sale_price>119.85 EUR</g:sale_price>
       <g:shipping_weight>0.762 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam_4.jpg?v=1744634563</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin.png?v=1744634566</g:additional_image_link>
@@ -4070,7 +4026,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Lissage &amp; Fermeté, Soldes, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Lissage &amp; Fermeté, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>012</g:id>
@@ -4087,7 +4043,6 @@
       <g:gtin>3401360213586</g:gtin>
       <g:mpn>012</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:sale_price>14.00 EUR</g:sale_price>
       <g:shipping_weight>0.032 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/sto-boutons-nuhanciam_ca9ea7cd-ee26-4870-b070-3ba31c3b3ee0.png?v=1753362608</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -4095,9 +4050,9 @@
       <g:item_group_id>8815363686744</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Soldes, Sérums &amp; Concentrés</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Sérums &amp; Concentrés</g:custom_label_4>
     </item>
     <item>
       <g:id>2012</g:id>
@@ -4113,7 +4068,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>2012</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>28.00 EUR</g:sale_price>
+      <g:sale_price>33.25 EUR</g:sale_price>
       <g:shipping_weight>0.064 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/sto-boutons-nuhanciam_ca9ea7cd-ee26-4870-b070-3ba31c3b3ee0.png?v=1753362608</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -4123,7 +4078,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Soldes, Sérums &amp; Concentrés</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Sérums &amp; Concentrés</g:custom_label_4>
     </item>
     <item>
       <g:id>3012</g:id>
@@ -4139,7 +4094,7 @@
       <g:product_type>Visage</g:product_type>
       <g:mpn>3012</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>42.00 EUR</g:sale_price>
+      <g:sale_price>44.63 EUR</g:sale_price>
       <g:shipping_weight>0.096 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/sto-boutons-nuhanciam_ca9ea7cd-ee26-4870-b070-3ba31c3b3ee0.png?v=1753362608</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -4149,7 +4104,7 @@
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Soldes, Sérums &amp; Concentrés</g:custom_label_4>
+      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Sérums &amp; Concentrés</g:custom_label_4>
     </item>
     <item>
       <g:id>326001</g:id>
@@ -4218,7 +4173,7 @@
       <g:product_type>Trio</g:product_type>
       <g:mpn>253009</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>70.80 EUR</g:sale_price>
+      <g:sale_price>94.40 EUR</g:sale_price>
       <g:shipping_weight>0.229 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -4227,7 +4182,7 @@
       <g:custom_label_1>Trio</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, bundle, Routines, Soldes</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, bundle, Routines</g:custom_label_4>
     </item>
   </channel>
 </rss>
