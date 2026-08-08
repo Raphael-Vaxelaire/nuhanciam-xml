@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 06:58:46 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -2329,7 +2329,7 @@
       <g:description>L’alchimie de 4 huiles végétales précieuses pour adoucir et sublimer le corps ou les cheveux. La texture huile fine, mi-sèche, permet de s'habiller rapidement.</g:description>
       <g:link>https://nuhanciam.com/products/huile-soin-metamorphose?variant=47320016912728</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-huile-soin-metamorphose-corps-cheveux.jpg?v=1753966759</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>backorder</g:availability>
       <g:price>27.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -2348,7 +2348,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>Corps, Huile de soin, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
