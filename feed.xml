@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 11 Aug 2026 07:12:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:37:03 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -3687,7 +3687,7 @@
       <g:description>Le Sérum Éclaircissant Taches pour le visage, le cou et le décolleté, est un soin quotidien spécialement conçu pour réduire et prévenir l'apparition des taches pigmentaires face aux agressions extérieures. Sa formule avancée associe trois actifs puissants : l'extrait d'algues Arc-en-ciel, concentré cellulaire aux propriétés éclaircissantes, l'extrait de Fleur de nopal qui accélère l'exfoliation naturelle de la peau, et la niacinamide qui réduit la surproduction de mélanine responsable des taches. Son efficacité est cliniquement prouvée* avec une réduction significative de 27,4% de l'intensité de la couleur des taches après 56 jours d'utilisation et une amélioration de l'éclat de 13,2% sur les phototypes VI (moyenne de 4,4% sur l'ensemble des phototypes). Sa texture légère et fondante pénètre rapidement sans effet gras pour une peau visiblement plus unifiée, lumineuse et éclatante jour après jour. *Etude clinique sous contrôle dermatologique auprès de 20 sujets.</g:description>
       <g:link>https://nuhanciam.com/products/serum-eclaircissant-taches?variant=53950253891928</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-serum-eclaircissant-taches.jpg?v=1753954644</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>backorder</g:availability>
       <g:price>48.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -3707,7 +3707,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
