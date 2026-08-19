@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 18 Aug 2026 06:49:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:49:22 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -1508,7 +1508,7 @@
       <g:description>Ce Gel Douche Douceur sans savon bénéficie d'une formule onctueuse, légèrement parfumée, enrichie en actif hydratant* 100% d’origine végétale pour le confort et le respect de la peau.</g:description>
       <g:link>https://nuhanciam.com/products/gel-douche-douceur?variant=47320016060760</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-gel-douche-douceur.jpg?v=1753965738</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>backorder</g:availability>
       <g:price>15.50 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -1526,7 +1526,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>Corps, Gel douche, Peaux deshydratées</g:custom_label_4>
     </item>
     <item>
