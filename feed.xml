@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:03:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:53:23 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -3404,7 +3404,7 @@
       <g:custom_label_4>Anti-taches, bundle, Routines</g:custom_label_4>
     </item>
     <item>
-      <g:id>261001</g:id>
+      <g:id>422</g:id>
       <g:title>Sac de plage Nuhanciam</g:title>
       <g:description>Pour l'achat d'un produit solaire et d'un autre produit de la gamme, Nuhanciam vous offre ce sac de plage. D'une contenance de 15 litres, sa conception robuste et son design discret feront de lui le compagnon idéal de vos vacances au soleil. Offre valable dans la limite des stocks disponibles.</g:description>
       <g:link>https://nuhanciam.com/products/sac-de-plage-nuhanciam</g:link>
@@ -3415,8 +3415,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Cadeaux</g:product_type>
-      <g:mpn>261001</g:mpn>
+      <g:mpn>422</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:shipping_weight>0.264 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Sac-plage-lifestyle.jpg?v=1777467845</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
