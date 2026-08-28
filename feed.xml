@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 17:27:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:21:34 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -89,6 +89,90 @@
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>070</g:id>
+      <g:title>Baume Émollient Apaisant - Format Voyage 50 ml - 50 ml</g:title>
+      <g:description>Retrouvez tous les bienfaits du Baume Émollient Apaisant dans un format voyage de 50 ml, pensé pour les peaux à tendance atopique. Il apaise les grattages dès la première application, hydrate intensément pendant 48H et répare la barrière cutanée fragilisée, grâce à ses actifs naturels ciblés — Ophiopogon Japonicus, complexe Oméga 3,6,9 et cires végétales. Son format nomade se glisse dans le sac à main, le sac à langer ou le bagage cabine (conforme à la réglementation avion) : en déplacement, au bureau ou en week-end, votre allié anti-démangeaisons est toujours à portée de main. C'est aussi le format idéal pour découvrir le baume avant d'adopter le grand format 500 ml. Pour toute la famille, dès la naissance !</g:description>
+      <g:link>https://nuhanciam.com/products/baume-emollient-apaisant-format-voyage-50-ml?variant=58281284895064</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Mini-Baume-Emolliant-Apaisant_022f8d88-89fb-4528-9d21-5276bda72339.jpg?v=1787910755</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>9.90 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
+      <g:product_type>Corps</g:product_type>
+      <g:gtin>3664448000694</g:gtin>
+      <g:mpn>070</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:shipping_weight>75.0 g</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Baume-Emollient-Apaisant-Benefice_1.jpg?v=1785339572</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3_bc1234f2-1a7d-4b1c-9d5b-0cd3dac40e8f.jpg?v=1774632932</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam7.jpg?v=1776184947</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15959838228824</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Corps</g:custom_label_1>
+      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soin corps</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>2070</g:id>
+      <g:title>Baume Émollient Apaisant - Format Voyage 50 ml - 2x50 ml</g:title>
+      <g:description>Retrouvez tous les bienfaits du Baume Émollient Apaisant dans un format voyage de 50 ml, pensé pour les peaux à tendance atopique. Il apaise les grattages dès la première application, hydrate intensément pendant 48H et répare la barrière cutanée fragilisée, grâce à ses actifs naturels ciblés — Ophiopogon Japonicus, complexe Oméga 3,6,9 et cires végétales. Son format nomade se glisse dans le sac à main, le sac à langer ou le bagage cabine (conforme à la réglementation avion) : en déplacement, au bureau ou en week-end, votre allié anti-démangeaisons est toujours à portée de main. C'est aussi le format idéal pour découvrir le baume avant d'adopter le grand format 500 ml. Pour toute la famille, dès la naissance !</g:description>
+      <g:link>https://nuhanciam.com/products/baume-emollient-apaisant-format-voyage-50-ml?variant=58281284927832</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Mini-Baume-Emolliant-Apaisant_022f8d88-89fb-4528-9d21-5276bda72339.jpg?v=1787910755</g:image_link>
+      <g:availability>backorder</g:availability>
+      <g:price>19.80 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
+      <g:product_type>Corps</g:product_type>
+      <g:mpn>2070</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>18.80 EUR</g:sale_price>
+      <g:shipping_weight>150.0 g</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Baume-Emollient-Apaisant-Benefice_1.jpg?v=1785339572</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3_bc1234f2-1a7d-4b1c-9d5b-0cd3dac40e8f.jpg?v=1774632932</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam7.jpg?v=1776184947</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15959838228824</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Corps</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>backorder</g:custom_label_3>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soin corps</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>3070</g:id>
+      <g:title>Baume Émollient Apaisant - Format Voyage 50 ml - 3x50 ml</g:title>
+      <g:description>Retrouvez tous les bienfaits du Baume Émollient Apaisant dans un format voyage de 50 ml, pensé pour les peaux à tendance atopique. Il apaise les grattages dès la première application, hydrate intensément pendant 48H et répare la barrière cutanée fragilisée, grâce à ses actifs naturels ciblés — Ophiopogon Japonicus, complexe Oméga 3,6,9 et cires végétales. Son format nomade se glisse dans le sac à main, le sac à langer ou le bagage cabine (conforme à la réglementation avion) : en déplacement, au bureau ou en week-end, votre allié anti-démangeaisons est toujours à portée de main. C'est aussi le format idéal pour découvrir le baume avant d'adopter le grand format 500 ml. Pour toute la famille, dès la naissance !</g:description>
+      <g:link>https://nuhanciam.com/products/baume-emollient-apaisant-format-voyage-50-ml?variant=58281284960600</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Mini-Baume-Emolliant-Apaisant_022f8d88-89fb-4528-9d21-5276bda72339.jpg?v=1787910755</g:image_link>
+      <g:availability>backorder</g:availability>
+      <g:price>29.70 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
+      <g:product_type>Corps</g:product_type>
+      <g:mpn>3070</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>25.25 EUR</g:sale_price>
+      <g:shipping_weight>225.0 g</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Baume-Emollient-Apaisant-Benefice_1.jpg?v=1785339572</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3_bc1234f2-1a7d-4b1c-9d5b-0cd3dac40e8f.jpg?v=1774632932</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam7.jpg?v=1776184947</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15959838228824</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Corps</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>backorder</g:custom_label_3>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>051</g:id>
