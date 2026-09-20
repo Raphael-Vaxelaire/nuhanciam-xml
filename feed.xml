@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 19 Sep 2026 10:33:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 10:56:10 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -647,7 +647,7 @@
       <g:description>Avec sa texture onctueuse et son fini doux et satiné, la Crème Éclat Unifiante est le soin quotidien à adopter par les peaux sèches à très sèches pour un teint éclatant et unifié. Effet hydratant* prolongé.</g:description>
       <g:link>https://nuhanciam.com/products/creme-eclat-unifiante?variant=47320015602008</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3401398127978_Creme-Eclat-Unifiante_50ml_ef2caa58-c9f1-48de-9883-1f7548d092f6.jpg?v=1788799550</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>backorder</g:availability>
       <g:price>39.10 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -666,7 +666,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>Crèmes &amp; Fluides, Peaux très sèches, Visage</g:custom_label_4>
     </item>
     <item>
@@ -1237,7 +1237,7 @@
       <g:description>Vous avez un besoin d'hydratation ? Le duo Eau Micellaire Démaquillante et Crème Éclat Unifiante est fait pour vous. Le combo hydratant parfait pour démaquiller, clarifier et adoucir, tout en unifiant le teint et en apportant de l'éclat. Les 2 soins ont été formulés pour un usage quotidien.</g:description>
       <g:link>https://nuhanciam.com/products/duo-hydratation-routine</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/DUOHYDRATATION.jpg?v=1753279164</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>backorder</g:availability>
       <g:price>58.40 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -1253,7 +1253,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Duo</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>bundle, Routines, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
@@ -3490,7 +3490,7 @@
       <g:description>Adoptez notre Routine Essentielle pour une peau éclatante, nourrie et unifiée. De notre Eau Micellaire Démaquillante à notre Sérum Anti-Taches Puissance 4, en passant par notre Contour des Yeux et notre Crème Éclat Unifiante, luttez contre le teint terne et le manque d'uniformité;</g:description>
       <g:link>https://nuhanciam.com/products/routine-essentielle-eclat-du-teint-routine</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/ROUTINEESSENTIELLE.jpg?v=1753368912</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>backorder</g:availability>
       <g:price>141.40 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -3506,7 +3506,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Routine</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>Anti-taches, bundle, Routines</g:custom_label_4>
     </item>
     <item>
@@ -4280,7 +4280,7 @@
       <g:description>La routine parfaite pour une peau éclatante, !Etape 1 : Nettoyer et démaquiller sa peau à l'aide de la mousse nettoyante démaquillante douce. Un régal à utiliser au quotidien tant la mousse est onctueuse. Etape 2 : Le sérum hydratant 24h et ses 4 acides hyaluroniques, le soin essentiel pour ressourcer la peau en profondeur. Etape 3 : La crème éclat unifiante pour un teint unifié et lumineux.</g:description>
       <g:link>https://nuhanciam.com/products/trio-routine-essentielle-coffret-fete-des-meres</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Coffretfetedesmeres.jpg?v=1778690066</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>backorder</g:availability>
       <g:price>97.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -4296,7 +4296,7 @@
       <g:item_group_id>15753694675288</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_3>backorder</g:custom_label_3>
     </item>
     <item>
       <g:id>253017</g:id>
