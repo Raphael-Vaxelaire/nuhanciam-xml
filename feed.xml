@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:01:23 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -874,6 +874,81 @@
       <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Visage</g:custom_label_4>
     </item>
     <item>
+      <g:id>055</g:id>
+      <g:title>Crème Riche Anti-Âge - 50 ml</g:title>
+      <g:description>Un voile de confort. Une peau visiblement raffermie, jour après jour. Un soin riche et enveloppant pour corriger visiblement les rides, raffermir et redonner de l'élasticité aux peaux matures. Une texture riche et fondante qui enveloppe la peau d'un voile de confort, sans effet gras ni collant.Le pilier quotidien du duo peau mature : l'Élixir Booster de Collagène agit à la source ; la crème renforce la peau chaque jour. Efficacité prouvée (tous phototypes I à VI) : 9/10 femmes voient leurs rides diminuées* 100 % constatent une élasticité améliorée** 100 % peau plus confortable et hydratée*** 98 % d'ingrédients d'origine naturelle.Matin et soir, sur le visage, le cou et le décolleté, seule ou après l'élixir. *Mesures instrumentales — **Auto-évaluation — sous contrôle dermatologique - 22 sujets - 56 jours — ***Hydratation des couches supérieures de l'épiderme</g:description>
+      <g:link>https://nuhanciam.com/products/creme-riche-anti-age?variant=57268842856792</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000588_Creme-Riche-Anti-Age_50ml.jpg?v=1788365986</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>52.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:gtin>3664448000588</g:gtin>
+      <g:mpn>055</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:shipping_weight>171.0 g</g:shipping_weight>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15750388482392</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Crèmes &amp; Fluides, Lissage &amp; Fermeté, Visage</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>2055</g:id>
+      <g:title>Crème Riche Anti-Âge - 2x50 ml</g:title>
+      <g:description>Un voile de confort. Une peau visiblement raffermie, jour après jour. Un soin riche et enveloppant pour corriger visiblement les rides, raffermir et redonner de l'élasticité aux peaux matures. Une texture riche et fondante qui enveloppe la peau d'un voile de confort, sans effet gras ni collant.Le pilier quotidien du duo peau mature : l'Élixir Booster de Collagène agit à la source ; la crème renforce la peau chaque jour. Efficacité prouvée (tous phototypes I à VI) : 9/10 femmes voient leurs rides diminuées* 100 % constatent une élasticité améliorée** 100 % peau plus confortable et hydratée*** 98 % d'ingrédients d'origine naturelle.Matin et soir, sur le visage, le cou et le décolleté, seule ou après l'élixir. *Mesures instrumentales — **Auto-évaluation — sous contrôle dermatologique - 22 sujets - 56 jours — ***Hydratation des couches supérieures de l'épiderme</g:description>
+      <g:link>https://nuhanciam.com/products/creme-riche-anti-age?variant=58369227653464</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000588_Creme-Riche-Anti-Age_50ml.jpg?v=1788365986</g:image_link>
+      <g:availability>backorder</g:availability>
+      <g:price>104.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:mpn>2055</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>98.80 EUR</g:sale_price>
+      <g:shipping_weight>342.0 g</g:shipping_weight>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15750388482392</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>backorder</g:custom_label_3>
+      <g:custom_label_4>Crèmes &amp; Fluides, Lissage &amp; Fermeté, Visage</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>3055</g:id>
+      <g:title>Crème Riche Anti-Âge - 3x50 ml</g:title>
+      <g:description>Un voile de confort. Une peau visiblement raffermie, jour après jour. Un soin riche et enveloppant pour corriger visiblement les rides, raffermir et redonner de l'élasticité aux peaux matures. Une texture riche et fondante qui enveloppe la peau d'un voile de confort, sans effet gras ni collant.Le pilier quotidien du duo peau mature : l'Élixir Booster de Collagène agit à la source ; la crème renforce la peau chaque jour. Efficacité prouvée (tous phototypes I à VI) : 9/10 femmes voient leurs rides diminuées* 100 % constatent une élasticité améliorée** 100 % peau plus confortable et hydratée*** 98 % d'ingrédients d'origine naturelle.Matin et soir, sur le visage, le cou et le décolleté, seule ou après l'élixir. *Mesures instrumentales — **Auto-évaluation — sous contrôle dermatologique - 22 sujets - 56 jours — ***Hydratation des couches supérieures de l'épiderme</g:description>
+      <g:link>https://nuhanciam.com/products/creme-riche-anti-age?variant=58369227686232</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000588_Creme-Riche-Anti-Age_50ml.jpg?v=1788365986</g:image_link>
+      <g:availability>backorder</g:availability>
+      <g:price>156.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:mpn>3055</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>132.60 EUR</g:sale_price>
+      <g:shipping_weight>513.0 g</g:shipping_weight>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15750388482392</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>backorder</g:custom_label_3>
+      <g:custom_label_4>Crèmes &amp; Fluides, Lissage &amp; Fermeté, Visage</g:custom_label_4>
+    </item>
+    <item>
       <g:id>050</g:id>
       <g:title>Crème Solaire Invisible Anti Taches Brunes SPF 50+ - 50 ml</g:title>
       <g:description>Le soleil est la première cause d'apparition de taches brunes, du mélasma et du vieillissement cutané prématuré. La creme solaire invisible anti tache SPF 50+ Nuhanciam change la donne : une crème solaire anti-taches à la fois protectrice et corrective, dans une texture légère, invisible et à l'effet mat. Conçue pour les adultes. Le nouveau soin solaire de votre routine beauté grâce à son action 2-en-1 !</g:description>
@@ -1477,6 +1552,81 @@
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>061</g:id>
+      <g:title>Élixir Booster de Collagène - 30 ml</g:title>
+      <g:description>100 % d'actifs. Des rides visiblement réduites, une peau plus ferme, un teint plus radieux. L'efficacité d'un actif anti-âge ciblé, la douceur d'une huile. L'Élixir Booster de Collagène est un sérum-huile concentré en actifs anti-âge qui réduit les rides installées, raffermit et redonne souplesse et éclat aux peaux matures — une texture fine et lumineuse, sans film gras ni collant.Geste n°1 de la routine peau mature : l'élixir agit à la source ; la Crème Riche Anti-Âge renforce chaque jour. Efficacité prouvée : –19,7 % de profondeur des rides (patte d'oie)** 95 % constatent une peau repulpée, plus ferme et unifiée** 100 % un teint plus radieux** +15,7 % synthèse de collagène I stimulée* · +42 % production d'élastine stimulée* 100 % d'actifs · 100 % d'ingrédients d'origine naturelle. *Tests in vitro (24 h) — **Test clinique sous contrôle dermatologique - 22 femmes - 45-69 ans - 56 jours - % de satisfaction</g:description>
+      <g:link>https://nuhanciam.com/products/elixir-booster-de-collagene?variant=57268849312088</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000595_Elixir-Booster-De-Collagene_30ml.jpg?v=1788366064</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:gtin>3664448000595</g:gtin>
+      <g:mpn>061</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:shipping_weight>165.0 g</g:shipping_weight>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15750393069912</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Lissage &amp; Fermeté, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>2061</g:id>
+      <g:title>Élixir Booster de Collagène - 2x30 ml</g:title>
+      <g:description>100 % d'actifs. Des rides visiblement réduites, une peau plus ferme, un teint plus radieux. L'efficacité d'un actif anti-âge ciblé, la douceur d'une huile. L'Élixir Booster de Collagène est un sérum-huile concentré en actifs anti-âge qui réduit les rides installées, raffermit et redonne souplesse et éclat aux peaux matures — une texture fine et lumineuse, sans film gras ni collant.Geste n°1 de la routine peau mature : l'élixir agit à la source ; la Crème Riche Anti-Âge renforce chaque jour. Efficacité prouvée : –19,7 % de profondeur des rides (patte d'oie)** 95 % constatent une peau repulpée, plus ferme et unifiée** 100 % un teint plus radieux** +15,7 % synthèse de collagène I stimulée* · +42 % production d'élastine stimulée* 100 % d'actifs · 100 % d'ingrédients d'origine naturelle. *Tests in vitro (24 h) — **Test clinique sous contrôle dermatologique - 22 femmes - 45-69 ans - 56 jours - % de satisfaction</g:description>
+      <g:link>https://nuhanciam.com/products/elixir-booster-de-collagene?variant=58369227424088</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000595_Elixir-Booster-De-Collagene_30ml.jpg?v=1788366064</g:image_link>
+      <g:availability>backorder</g:availability>
+      <g:price>110.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:mpn>2061</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>104.50 EUR</g:sale_price>
+      <g:shipping_weight>330.0 g</g:shipping_weight>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15750393069912</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>backorder</g:custom_label_3>
+      <g:custom_label_4>Lissage &amp; Fermeté, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>3061</g:id>
+      <g:title>Élixir Booster de Collagène - 3x30 ml</g:title>
+      <g:description>100 % d'actifs. Des rides visiblement réduites, une peau plus ferme, un teint plus radieux. L'efficacité d'un actif anti-âge ciblé, la douceur d'une huile. L'Élixir Booster de Collagène est un sérum-huile concentré en actifs anti-âge qui réduit les rides installées, raffermit et redonne souplesse et éclat aux peaux matures — une texture fine et lumineuse, sans film gras ni collant.Geste n°1 de la routine peau mature : l'élixir agit à la source ; la Crème Riche Anti-Âge renforce chaque jour. Efficacité prouvée : –19,7 % de profondeur des rides (patte d'oie)** 95 % constatent une peau repulpée, plus ferme et unifiée** 100 % un teint plus radieux** +15,7 % synthèse de collagène I stimulée* · +42 % production d'élastine stimulée* 100 % d'actifs · 100 % d'ingrédients d'origine naturelle. *Tests in vitro (24 h) — **Test clinique sous contrôle dermatologique - 22 femmes - 45-69 ans - 56 jours - % de satisfaction</g:description>
+      <g:link>https://nuhanciam.com/products/elixir-booster-de-collagene?variant=58369227456856</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000595_Elixir-Booster-De-Collagene_30ml.jpg?v=1788366064</g:image_link>
+      <g:availability>backorder</g:availability>
+      <g:price>165.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:mpn>3061</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>140.25 EUR</g:sale_price>
+      <g:shipping_weight>495.0 g</g:shipping_weight>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15750393069912</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>backorder</g:custom_label_3>
+      <g:custom_label_4>Lissage &amp; Fermeté, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>065</g:id>
