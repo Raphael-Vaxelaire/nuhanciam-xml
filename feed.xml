@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:55:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:04:07 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -889,6 +889,7 @@
       <g:mpn>055</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:shipping_weight>171.0 g</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Creme-Riche-Texture.jpg?v=1791387649</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15750388482392</g:item_group_id>
@@ -914,6 +915,7 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>98.80 EUR</g:sale_price>
       <g:shipping_weight>342.0 g</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Creme-Riche-Texture.jpg?v=1791387649</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15750388482392</g:item_group_id>
@@ -939,6 +941,7 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>132.60 EUR</g:sale_price>
       <g:shipping_weight>513.0 g</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Creme-Riche-Texture.jpg?v=1791387649</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15750388482392</g:item_group_id>
@@ -1268,6 +1271,31 @@
       <g:custom_label_4>bundle, Corps, Laits &amp; Baumes, Nouveauté, Peaux deshydratées</g:custom_label_4>
     </item>
     <item>
+      <g:id>shopify_58597979554136</g:id>
+      <g:title>Duo Élixir &amp; Crème Riche Anti-Âge</g:title>
+      <g:description>La routine anti-âge complète des peaux matures : agir à la source, renforcer chaque jour. Adoptez notre Duo Élixir &amp;amp; Crème Riche Anti-Âge, deux soins complémentaires pour réduire visiblement les rides, raffermir la peau et lui redonner souplesse et éclat. L'Élixir Booster de Collagène agit à la source ; la Crème Riche Anti-Âge prend le relais et enveloppe la peau d'un voile de confort, jour après jour. Ce que contient le duo Élixir Booster de Collagène – 30 ml – Un sérum-huile 100 % d'actifs au bakuchiol, à l'huile de cacay et à la criste marine. Sa texture fine et lumineuse pénètre sans film gras ni collant. –19,7 % de profondeur des rides (patte d'oie)* et 95 % constatent une peau repulpée, plus ferme et unifiée*. Crème Riche Anti-Âge – 50 ml – Un soin riche et fondant à l'acide hyaluronique, à l'Ethicskin™ et au Bidens pilosa, alternative végétale au rétinol. 9 femmes sur 10 voient leurs rides diminuées** et 100 % constatent une élasticité améliorée***. Le petit + de notre duo : les deux soins sont à -20 % par rapport à leur prix à l'unité. *Test clinique sous contrôle dermatologique – 22 femmes – 45-69 ans – 56 jours – % de satisfaction. **Mesures instrumentales. ***Auto-évaluation sous contrôle dermatologique – 22 sujets – 56 jours.</g:description>
+      <g:link>https://nuhanciam.com/products/duo-elixir-creme-riche-anti-age</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Duo-Elixir_Creme-Riche.jpg?v=1791384718</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>107.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
+      <g:product_type>Duo</g:product_type>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>85.60 EUR</g:sale_price>
+      <g:shipping_weight>336.0 g</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Duo-Elixir_Creme-Riche-Podium.jpg?v=1791384896</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>16052862550360</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Duo</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>bundle, Lissage &amp; Fermeté, Routines</g:custom_label_4>
+    </item>
+    <item>
       <g:id>252004</g:id>
       <g:title>Duo Gommage &amp; Lait Hydratant Corps</g:title>
       <g:description>Vous recherchez une peau douce, souple et hydratée ? Adoptez le Duo Gommage &amp;amp; Lait Hydratant Corps. Ce pack produits se compose de notre Gommage Corps Éclat, à utiliser 1 à 2 fois par semaine, et de notre Lait Corps Hydratant 24 Heures, à appliquer quotidiennement.</g:description>
@@ -1569,6 +1597,7 @@
       <g:mpn>061</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:shipping_weight>165.0 g</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir-Geste.jpg?v=1791388427</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15750393069912</g:item_group_id>
@@ -1594,6 +1623,7 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>104.50 EUR</g:sale_price>
       <g:shipping_weight>330.0 g</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir-Geste.jpg?v=1791388427</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15750393069912</g:item_group_id>
@@ -1619,6 +1649,7 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>140.25 EUR</g:sale_price>
       <g:shipping_weight>495.0 g</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir-Geste.jpg?v=1791388427</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15750393069912</g:item_group_id>
