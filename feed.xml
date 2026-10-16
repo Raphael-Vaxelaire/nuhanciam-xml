@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:04:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:59:52 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -1142,6 +1142,96 @@
       <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Visage</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>061</g:id>
+      <g:title>DEMO-Élixir Booster de Collagène</g:title>
+      <g:description>L'efficacité d'un actif anti-âge ciblé, la douceur d'une huile. L'Élixir Booster de Collagène est un sérum-huile concentré qui réduit les rides installées, raffermit et redonne souplesse et éclat aux peaux matures. Sa texture fine et lumineuse pénètre sans film gras ni collant. Geste n°1 de la routine peau mature : l'élixir agit à la source, la Crème Riche Anti-Âge renforce chaque jour. En laboratoire, il stimule la synthèse de collagène I (+15,7 %*) et la production d'élastine (+42 %*). 100 % d'actifs · 100 % d'ingrédients d'origine naturelle · vegan · fabriqué en France. *Tests in vitro (24 h).</g:description>
+      <g:link>https://nuhanciam.com/products/demo-elixir-booster-de-collagene</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000595_Elixir-Booster-De-Collagene_30ml.jpg?v=1788366064</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:gtin>3664448000595</g:gtin>
+      <g:mpn>061</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:shipping_weight>165.0 g</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_2.jpg?v=1792137534</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_1.jpg?v=1792137534</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_3.jpg?v=1792137534</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_4.jpg?v=1792137534</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_5.jpg?v=1792137534</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>16111210725720</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Lissage &amp; Fermeté, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>2061</g:id>
+      <g:title>DEMO-Élixir Booster de Collagène x2</g:title>
+      <g:description>L'efficacité d'un actif anti-âge ciblé, la douceur d'une huile. L'Élixir Booster de Collagène est un sérum-huile concentré qui réduit les rides installées, raffermit et redonne souplesse et éclat aux peaux matures. Sa texture fine et lumineuse pénètre sans film gras ni collant. Geste n°1 de la routine peau mature : l'élixir agit à la source, la Crème Riche Anti-Âge renforce chaque jour. En laboratoire, il stimule la synthèse de collagène I (+15,7 %*) et la production d'élastine (+42 %*). 100 % d'actifs · 100 % d'ingrédients d'origine naturelle · vegan · fabriqué en France. *Tests in vitro (24 h).</g:description>
+      <g:link>https://nuhanciam.com/products/demo-elixir-booster-de-collagene-x2</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000595_Elixir-Booster-De-Collagene_30ml.jpg?v=1788366064</g:image_link>
+      <g:availability>backorder</g:availability>
+      <g:price>110.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:mpn>2061</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>104.50 EUR</g:sale_price>
+      <g:shipping_weight>330.0 g</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_2.jpg?v=1792137534</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_1.jpg?v=1792137534</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_3.jpg?v=1792137534</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_4.jpg?v=1792137534</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_5.jpg?v=1792137534</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>16113391763800</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>backorder</g:custom_label_3>
+      <g:custom_label_4>Lissage &amp; Fermeté, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>3061</g:id>
+      <g:title>DEMO-Élixir Booster de Collagène x3</g:title>
+      <g:description>L'efficacité d'un actif anti-âge ciblé, la douceur d'une huile. L'Élixir Booster de Collagène est un sérum-huile concentré qui réduit les rides installées, raffermit et redonne souplesse et éclat aux peaux matures. Sa texture fine et lumineuse pénètre sans film gras ni collant. Geste n°1 de la routine peau mature : l'élixir agit à la source, la Crème Riche Anti-Âge renforce chaque jour. En laboratoire, il stimule la synthèse de collagène I (+15,7 %*) et la production d'élastine (+42 %*). 100 % d'actifs · 100 % d'ingrédients d'origine naturelle · vegan · fabriqué en France. *Tests in vitro (24 h).</g:description>
+      <g:link>https://nuhanciam.com/products/demo-elixir-booster-de-collagene-x3</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000595_Elixir-Booster-De-Collagene_30ml.jpg?v=1788366064</g:image_link>
+      <g:availability>backorder</g:availability>
+      <g:price>165.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:mpn>3061</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>140.25 EUR</g:sale_price>
+      <g:shipping_weight>495.0 g</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_2.jpg?v=1792137534</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_1.jpg?v=1792137534</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_3.jpg?v=1792137534</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_4.jpg?v=1792137534</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir_5.jpg?v=1792137534</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>16113391796568</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>backorder</g:custom_label_3>
+      <g:custom_label_4>Lissage &amp; Fermeté, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>252003</g:id>
