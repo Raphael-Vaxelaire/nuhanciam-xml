@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:09:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:25:18 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -273,6 +273,54 @@
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soin corps</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>CARTE-BIENVENUE</g:id>
+      <g:title>Carte offerte – Bienvenue</g:title>
+      <g:description>Usage interne – insert colis. Carte de remerciement glissée par Inelogis dans le colis de la 1re commande d'une cliente. Ajoutée automatiquement à 0 € par Shopify Flow. Non vendue. Réf. interne (SKU) CARTE-BIENVENUE Format 10 × 21 cm Poids 10 g Déclencheur 1re commande de la cliente Préparation Inelogis – 1 carte par colis, posée sur les produits</g:description>
+      <g:link>https://nuhanciam.com/products/carte-offerte-bienvenue</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CARTE-BIENVENUE_392b8fdf-1bd1-4c94-882c-c260bf37a642.jpg?v=1792574438</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
+      <g:product_type>Packaging</g:product_type>
+      <g:mpn>CARTE-BIENVENUE</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:shipping_weight>10.0 g</g:shipping_weight>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>16106608689496</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Packaging</g:custom_label_1>
+      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>carte-bienvenue, carte-interne</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>CARTE-FIDELE</g:id>
+      <g:title>Carte offerte – Fidélité</g:title>
+      <g:description>Usage interne – insert colis. Carte de remerciement glissée par Inelogis dans le colis des commandes récurrentes (2e commande et suivantes). Ajoutée automatiquement à 0 € par Shopify Flow. Non vendue. Réf. interne (SKU) CARTE-FIDELE Format 10 × 21 cm Poids 10 g Déclencheur 2e commande et suivantes Préparation Inelogis – 1 carte par colis, posée sur les produits</g:description>
+      <g:link>https://nuhanciam.com/products/carte-offerte-fidele</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CARTE-FIDELE_440b9718-61a1-4f51-814c-e9f810bbf293.jpg?v=1792574990</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
+      <g:product_type>Packaging</g:product_type>
+      <g:mpn>CARTE-FIDELE</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:shipping_weight>10.0 g</g:shipping_weight>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>16106608755032</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Packaging</g:custom_label_1>
+      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>carte-fidele, carte-interne</g:custom_label_4>
     </item>
     <item>
       <g:id>shopify_57350091211096</g:id>
