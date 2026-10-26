@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:58:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:31:14 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -275,7 +275,7 @@
       <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soin corps</g:custom_label_4>
     </item>
     <item>
-      <g:id>CARTE-BIENVENUE</g:id>
+      <g:id>305</g:id>
       <g:title>Carte offerte – Bienvenue</g:title>
       <g:description>Usage interne – insert colis. Carte de remerciement glissée par Inelogis dans le colis de la 1re commande d'une cliente. Ajoutée automatiquement à 0 € par Shopify Flow. Non vendue. Réf. interne (SKU) CARTE-BIENVENUE Format 10 × 21 cm Poids 10 g Déclencheur 1re commande de la cliente Préparation Inelogis – 1 carte par colis, posée sur les produits</g:description>
       <g:link>https://nuhanciam.com/products/carte-offerte-bienvenue</g:link>
@@ -286,7 +286,7 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Packaging</g:product_type>
-      <g:mpn>CARTE-BIENVENUE</g:mpn>
+      <g:mpn>305</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:shipping_weight>10.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -299,7 +299,7 @@
       <g:custom_label_4>carte-bienvenue, carte-interne</g:custom_label_4>
     </item>
     <item>
-      <g:id>CARTE-FIDELE</g:id>
+      <g:id>306</g:id>
       <g:title>Carte offerte – Fidélité</g:title>
       <g:description>Usage interne – insert colis. Carte de remerciement glissée par Inelogis dans le colis des commandes récurrentes (2e commande et suivantes). Ajoutée automatiquement à 0 € par Shopify Flow. Non vendue. Réf. interne (SKU) CARTE-FIDELE Format 10 × 21 cm Poids 10 g Déclencheur 2e commande et suivantes Préparation Inelogis – 1 carte par colis, posée sur les produits</g:description>
       <g:link>https://nuhanciam.com/products/carte-offerte-fidele</g:link>
@@ -310,7 +310,7 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Packaging</g:product_type>
-      <g:mpn>CARTE-FIDELE</g:mpn>
+      <g:mpn>306</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:shipping_weight>10.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
