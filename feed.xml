@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:32:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:24:21 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -46,8 +46,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2037</g:gtin>
       <g:mpn>2037</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>68.40 EUR</g:sale_price>
       <g:shipping_weight>1.118 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/baume-corporel-naturel-beurre-de-karite.png?v=1733829961</g:additional_image_link>
@@ -74,8 +75,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3037</g:gtin>
       <g:mpn>3037</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>91.80 EUR</g:sale_price>
       <g:shipping_weight>1.677 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/baume-corporel-naturel-beurre-de-karite.png?v=1733829961</g:additional_image_link>
@@ -130,8 +132,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2070</g:gtin>
       <g:mpn>2070</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>18.80 EUR</g:sale_price>
       <g:shipping_weight>150.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Baume-Emollient-Apaisant-Benefice_1.jpg?v=1785339572</g:additional_image_link>
@@ -158,8 +161,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3070</g:gtin>
       <g:mpn>3070</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>25.25 EUR</g:sale_price>
       <g:shipping_weight>225.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Baume-Emollient-Apaisant-Benefice_1.jpg?v=1785339572</g:additional_image_link>
@@ -219,8 +223,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2051</g:gtin>
       <g:mpn>2051</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>68.40 EUR</g:sale_price>
       <g:shipping_weight>1120.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Baume-Emollient-Apaisant-Benefice_1.jpg?v=1785339572</g:additional_image_link>
@@ -252,8 +257,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3051</g:gtin>
       <g:mpn>3051</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>91.80 EUR</g:sale_price>
       <g:shipping_weight>1680.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Baume-Emollient-Apaisant-Benefice_1.jpg?v=1785339572</g:additional_image_link>
@@ -280,14 +286,15 @@
       <g:description>Usage interne – insert colis. Carte de remerciement glissée par Inelogis dans le colis de la 1re commande d'une cliente. Ajoutée automatiquement à 0 € par Shopify Flow. Non vendue. Réf. interne (SKU) CARTE-BIENVENUE Format 10 × 21 cm Poids 10 g Déclencheur 1re commande de la cliente Préparation Inelogis – 1 carte par colis, posée sur les produits</g:description>
       <g:link>https://nuhanciam.com/products/carte-offerte-bienvenue</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CARTE-BIENVENUE_392b8fdf-1bd1-4c94-882c-c260bf37a642.jpg?v=1792574438</g:image_link>
-      <g:availability>backorder</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>0.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Packaging</g:product_type>
+      <g:gtin>305</g:gtin>
       <g:mpn>305</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:shipping_weight>10.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -295,7 +302,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Packaging</g:custom_label_1>
       <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>backorder</g:custom_label_3>
+      <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>carte-bienvenue, carte-interne</g:custom_label_4>
     </item>
     <item>
@@ -310,8 +317,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Packaging</g:product_type>
+      <g:gtin>306</g:gtin>
       <g:mpn>306</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:shipping_weight>10.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
@@ -485,8 +493,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2025</g:gtin>
       <g:mpn>2025</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>66.50 EUR</g:sale_price>
       <g:shipping_weight>0.072 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam_2.png?v=1753797137</g:additional_image_link>
@@ -511,8 +520,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3025</g:gtin>
       <g:mpn>3025</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>89.25 EUR</g:sale_price>
       <g:shipping_weight>0.108 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam_2.png?v=1753797137</g:additional_image_link>
@@ -563,8 +573,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2017</g:gtin>
       <g:mpn>2017</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>58.90 EUR</g:sale_price>
       <g:shipping_weight>0.062 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Contourdesyeux_13c1d368-a1f9-46e2-87e8-ffbe1e4a2393.png?v=1753797069</g:additional_image_link>
@@ -589,8 +600,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3017</g:gtin>
       <g:mpn>3017</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>79.05 EUR</g:sale_price>
       <g:shipping_weight>0.093 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Contourdesyeux_13c1d368-a1f9-46e2-87e8-ffbe1e4a2393.png?v=1753797069</g:additional_image_link>
@@ -641,8 +653,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2034</g:gtin>
       <g:mpn>2034</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>64.60 EUR</g:sale_price>
       <g:shipping_weight>0.144 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclaircissanteTaches.png?v=1753797184</g:additional_image_link>
@@ -667,8 +680,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3034</g:gtin>
       <g:mpn>3034</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>86.70 EUR</g:sale_price>
       <g:shipping_weight>0.216 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclaircissanteTaches.png?v=1753797184</g:additional_image_link>
@@ -720,8 +734,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2001</g:gtin>
       <g:mpn>2001</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>74.29 EUR</g:sale_price>
       <g:shipping_weight>0.146 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclatUnifiante.png?v=1753355834</g:additional_image_link>
@@ -747,8 +762,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3001</g:gtin>
       <g:mpn>3001</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>99.71 EUR</g:sale_price>
       <g:shipping_weight>0.219 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclatUnifiante.png?v=1753355834</g:additional_image_link>
@@ -800,8 +816,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2018</g:gtin>
       <g:mpn>2018</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>48.45 EUR</g:sale_price>
       <g:shipping_weight>0.164 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-hydra-intense-nuhanciam_72f9a7b0-f2f9-4d5f-a289-b749d8f0c66f.png?v=1753360658</g:additional_image_link>
@@ -826,8 +843,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3018</g:gtin>
       <g:mpn>3018</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>65.02 EUR</g:sale_price>
       <g:shipping_weight>0.246 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-hydra-intense-nuhanciam_72f9a7b0-f2f9-4d5f-a289-b749d8f0c66f.png?v=1753360658</g:additional_image_link>
@@ -879,8 +897,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2035</g:gtin>
       <g:mpn>2035</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>36.67 EUR</g:sale_price>
       <g:shipping_weight>0.154 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/ficheactifsSolaire.jpg?v=1738257842</g:additional_image_link>
@@ -906,8 +925,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3035</g:gtin>
       <g:mpn>3035</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>49.22 EUR</g:sale_price>
       <g:shipping_weight>0.231 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/ficheactifsSolaire.jpg?v=1738257842</g:additional_image_link>
@@ -959,8 +979,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2055</g:gtin>
       <g:mpn>2055</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>98.80 EUR</g:sale_price>
       <g:shipping_weight>342.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Creme-Riche-Texture.jpg?v=1791387649</g:additional_image_link>
@@ -985,8 +1006,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3055</g:gtin>
       <g:mpn>3055</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>132.60 EUR</g:sale_price>
       <g:shipping_weight>513.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Creme-Riche-Texture.jpg?v=1791387649</g:additional_image_link>
@@ -1042,8 +1064,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Sunscreen</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2050</g:gtin>
       <g:mpn>2050</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>47.50 EUR</g:sale_price>
       <g:shipping_weight>0.152 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Creme-Solaire-invisible_anti-Taches-SPF50-Benefice_1.jpg?v=1785338605</g:additional_image_link>
@@ -1073,8 +1096,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Sunscreen</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3050</g:gtin>
       <g:mpn>3050</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>63.75 EUR</g:sale_price>
       <g:shipping_weight>0.228 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Creme-Solaire-invisible_anti-Taches-SPF50-Benefice_1.jpg?v=1785338605</g:additional_image_link>
@@ -1293,8 +1317,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Duo</g:product_type>
+      <g:gtin>252003</g:gtin>
       <g:mpn>252003</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>68.80 EUR</g:sale_price>
       <g:shipping_weight>0.234 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -1318,8 +1343,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Duo</g:product_type>
+      <g:gtin>262001</g:gtin>
       <g:mpn>262001</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>36.00 EUR</g:sale_price>
       <g:shipping_weight>1150.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -1343,8 +1369,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Exfoliants</g:google_product_category>
       <g:product_type>Duo</g:product_type>
+      <g:gtin>252006</g:gtin>
       <g:mpn>252006</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>40.80 EUR</g:sale_price>
       <g:shipping_weight>0.256 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -1368,8 +1395,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Duo</g:product_type>
+      <g:gtin>262002</g:gtin>
       <g:mpn>262002</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>48.00 EUR</g:sale_price>
       <g:shipping_weight>1133.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Duo-AT-Lifestyle-1200px.jpg?v=1789554120</g:additional_image_link>
@@ -1409,7 +1437,7 @@
       <g:custom_label_4>bundle, Corps, Laits &amp; Baumes, Nouveauté, Peaux deshydratées</g:custom_label_4>
     </item>
     <item>
-      <g:id>shopify_58597979554136</g:id>
+      <g:id>262003</g:id>
       <g:title>Duo Élixir &amp; Crème Riche Anti-Âge</g:title>
       <g:description>La routine anti-âge complète des peaux matures : agir à la source, renforcer chaque jour. Adoptez notre Duo Élixir &amp;amp; Crème Riche Anti-Âge, deux soins complémentaires pour réduire visiblement les rides, raffermir la peau et lui redonner souplesse et éclat. L'Élixir Booster de Collagène agit à la source ; la Crème Riche Anti-Âge prend le relais et enveloppe la peau d'un voile de confort, jour après jour. Ce que contient le duo Élixir Booster de Collagène – 30 ml – Un sérum-huile 100 % d'actifs au bakuchiol, à l'huile de cacay et à la criste marine. Sa texture fine et lumineuse pénètre sans film gras ni collant. –19,7 % de profondeur des rides (patte d'oie)* et 95 % constatent une peau repulpée, plus ferme et unifiée*. Crème Riche Anti-Âge – 50 ml – Un soin riche et fondant à l'acide hyaluronique, à l'Ethicskin™ et au Bidens pilosa, alternative végétale au rétinol. 9 femmes sur 10 voient leurs rides diminuées** et 100 % constatent une élasticité améliorée***. Le petit + de notre duo : les deux soins sont à -20 % par rapport à leur prix à l'unité. *Test clinique sous contrôle dermatologique – 22 femmes – 45-69 ans – 56 jours – % de satisfaction. **Mesures instrumentales. ***Auto-évaluation sous contrôle dermatologique – 22 sujets – 56 jours.</g:description>
       <g:link>https://nuhanciam.com/products/duo-elixir-creme-riche-anti-age</g:link>
@@ -1420,7 +1448,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Duo</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:gtin>262003</g:gtin>
+      <g:mpn>262003</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>85.60 EUR</g:sale_price>
       <g:shipping_weight>336.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Duo-Elixir_Creme-Riche-Podium.jpg?v=1791384896</g:additional_image_link>
@@ -1445,8 +1475,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Exfoliants</g:google_product_category>
       <g:product_type>Duo</g:product_type>
+      <g:gtin>252004</g:gtin>
       <g:mpn>252004</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>37.12 EUR</g:sale_price>
       <g:shipping_weight>800.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -1470,8 +1501,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Duo</g:product_type>
+      <g:gtin>252007</g:gtin>
       <g:mpn>252007</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>46.72 EUR</g:sale_price>
       <g:shipping_weight>0.344 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -1495,8 +1527,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Exfoliants</g:google_product_category>
       <g:product_type>Duo</g:product_type>
+      <g:gtin>252002</g:gtin>
       <g:mpn>252002</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>44.72 EUR</g:sale_price>
       <g:shipping_weight>795.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -1520,8 +1553,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Duo</g:product_type>
+      <g:gtin>252001</g:gtin>
       <g:mpn>252001</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>76.00 EUR</g:sale_price>
       <g:shipping_weight>378.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -1545,8 +1579,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Duo</g:product_type>
+      <g:gtin>252008</g:gtin>
       <g:mpn>252008</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>42.00 EUR</g:sale_price>
       <g:shipping_weight>0.068 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -1600,8 +1635,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Duo</g:product_type>
+      <g:gtin>252010</g:gtin>
       <g:mpn>252010</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>53.84 EUR</g:sale_price>
       <g:shipping_weight>0.229 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -1625,8 +1661,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Duo</g:product_type>
+      <g:gtin>252011</g:gtin>
       <g:mpn>252011</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>53.84 EUR</g:sale_price>
       <g:shipping_weight>0.239 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -1677,8 +1714,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2005</g:gtin>
       <g:mpn>2005</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>36.67 EUR</g:sale_price>
       <g:shipping_weight>0.542 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/eau-micellaire-demaquillante-naturelle-efficace.png?v=1733757197</g:additional_image_link>
@@ -1704,8 +1742,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3005</g:gtin>
       <g:mpn>3005</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>49.22 EUR</g:sale_price>
       <g:shipping_weight>0.813 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/eau-micellaire-demaquillante-naturelle-efficace.png?v=1733757197</g:additional_image_link>
@@ -1757,8 +1796,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2061</g:gtin>
       <g:mpn>2061</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>104.50 EUR</g:sale_price>
       <g:shipping_weight>330.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir-Geste.jpg?v=1791388427</g:additional_image_link>
@@ -1783,8 +1823,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3061</g:gtin>
       <g:mpn>3061</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>140.25 EUR</g:sale_price>
       <g:shipping_weight>495.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Elixir-Geste.jpg?v=1791388427</g:additional_image_link>
@@ -1836,8 +1877,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2065</g:gtin>
       <g:mpn>2065</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>33.05 EUR</g:sale_price>
       <g:shipping_weight>120.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Emulsion-Lifestyle-ballons-NEW.jpg?v=1782393937</g:additional_image_link>
@@ -1862,8 +1904,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3065</g:gtin>
       <g:mpn>3065</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>43.75 EUR</g:sale_price>
       <g:shipping_weight>180.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Emulsion-Lifestyle-ballons-NEW.jpg?v=1782393937</g:additional_image_link>
@@ -1915,8 +1958,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2004</g:gtin>
       <g:mpn>2004</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>54.60 EUR</g:sale_price>
       <g:shipping_weight>0.144 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/fluide-matifiant-unifiant_1.jpg?v=1753798439</g:additional_image_link>
@@ -1941,8 +1985,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3004</g:gtin>
       <g:mpn>3004</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>71.70 EUR</g:sale_price>
       <g:shipping_weight>0.216 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/fluide-matifiant-unifiant_1.jpg?v=1753798439</g:additional_image_link>
@@ -1960,7 +2005,7 @@
       <g:title>Gel Douche Douceur - 500 ml</g:title>
       <g:description>Ce Gel Douche Douceur sans savon bénéficie d'une formule onctueuse, légèrement parfumée, enrichie en actif hydratant* 100% d’origine végétale pour le confort et le respect de la peau.</g:description>
       <g:link>https://nuhanciam.com/products/gel-douche-douceur?variant=47320016060760</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000038_Gel-Douche-Douceur_500ml_eab58eba-54cb-4675-ad09-8db29b8477b7.jpg?v=1788799552</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000038_Gel-Douche-douceur-500ml.jpg?v=1793290816</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>15.50 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
@@ -1971,8 +2016,6 @@
       <g:mpn>019</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:shipping_weight>580.0 g</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-sans-savon-naturel.png?v=1753354050</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-hydratant-peau-seche.webp?v=1753354050</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>8816104866136</g:item_group_id>
@@ -1987,19 +2030,18 @@
       <g:title>Gel Douche Douceur - 2x500 ml</g:title>
       <g:description>Ce Gel Douche Douceur sans savon bénéficie d'une formule onctueuse, légèrement parfumée, enrichie en actif hydratant* 100% d’origine végétale pour le confort et le respect de la peau.</g:description>
       <g:link>https://nuhanciam.com/products/gel-douche-douceur?variant=57082419216728</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000038_Gel-Douche-Douceur_500ml_eab58eba-54cb-4675-ad09-8db29b8477b7.jpg?v=1788799552</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000038_Gel-Douche-douceur-500ml.jpg?v=1793290816</g:image_link>
       <g:availability>backorder</g:availability>
       <g:price>31.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2019</g:gtin>
       <g:mpn>2019</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>29.45 EUR</g:sale_price>
       <g:shipping_weight>1160.0 g</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-sans-savon-naturel.png?v=1753354050</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-hydratant-peau-seche.webp?v=1753354050</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>8816104866136</g:item_group_id>
@@ -2014,19 +2056,18 @@
       <g:title>Gel Douche Douceur - 3x500 ml</g:title>
       <g:description>Ce Gel Douche Douceur sans savon bénéficie d'une formule onctueuse, légèrement parfumée, enrichie en actif hydratant* 100% d’origine végétale pour le confort et le respect de la peau.</g:description>
       <g:link>https://nuhanciam.com/products/gel-douche-douceur?variant=57082419249496</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000038_Gel-Douche-Douceur_500ml_eab58eba-54cb-4675-ad09-8db29b8477b7.jpg?v=1788799552</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000038_Gel-Douche-douceur-500ml.jpg?v=1793290816</g:image_link>
       <g:availability>backorder</g:availability>
       <g:price>46.50 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3019</g:gtin>
       <g:mpn>3019</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>39.52 EUR</g:sale_price>
       <g:shipping_weight>1740.0 g</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-sans-savon-naturel.png?v=1753354050</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-hydratant-peau-seche.webp?v=1753354050</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>8816104866136</g:item_group_id>
@@ -2074,8 +2115,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2066</g:gtin>
       <g:mpn>2066</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>45.60 EUR</g:sale_price>
       <g:shipping_weight>1150.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Duo-AT-Lifestyle-1200px.jpg?v=1789554120</g:additional_image_link>
@@ -2100,8 +2142,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3066</g:gtin>
       <g:mpn>3066</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>61.20 EUR</g:sale_price>
       <g:shipping_weight>1725.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Duo-AT-Lifestyle-1200px.jpg?v=1789554120</g:additional_image_link>
@@ -2151,8 +2194,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2048</g:gtin>
       <g:mpn>2048</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>13.10 EUR</g:sale_price>
       <g:shipping_weight>0.15 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -2176,8 +2220,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3048</g:gtin>
       <g:mpn>3048</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>17.60 EUR</g:sale_price>
       <g:shipping_weight>0.225 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -2227,8 +2272,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2053</g:gtin>
       <g:mpn>2053</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>28.30 EUR</g:sale_price>
       <g:shipping_weight>1.08 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Gel-Dermo-Lifestyle-Texture.jpg?v=1781624040</g:additional_image_link>
@@ -2253,8 +2299,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3053</g:gtin>
       <g:mpn>3053</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>38.00 EUR</g:sale_price>
       <g:shipping_weight>1.63 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Gel-Dermo-Lifestyle-Texture.jpg?v=1781624040</g:additional_image_link>
@@ -2305,8 +2352,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2068</g:gtin>
       <g:mpn>2068</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>13.10 EUR</g:sale_price>
       <g:shipping_weight>126.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Texture-gel-Dermo-Fond-optim.jpg?v=1782140900</g:additional_image_link>
@@ -2331,8 +2379,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3068</g:gtin>
       <g:mpn>3068</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>17.60 EUR</g:sale_price>
       <g:shipping_weight>0.189 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Texture-gel-Dermo-Fond-optim.jpg?v=1782140900</g:additional_image_link>
@@ -2386,8 +2435,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Exfoliants</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2026</g:gtin>
       <g:mpn>2026</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>37.81 EUR</g:sale_price>
       <g:shipping_weight>0.474 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-corps-grain-naturel.png?v=1733830242</g:additional_image_link>
@@ -2415,8 +2465,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Exfoliants</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3026</g:gtin>
       <g:mpn>3026</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>50.74 EUR</g:sale_price>
       <g:shipping_weight>0.711 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-corps-grain-naturel.png?v=1733830242</g:additional_image_link>
@@ -2470,8 +2521,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2028</g:gtin>
       <g:mpn>2028</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>13.10 EUR</g:sale_price>
       <g:shipping_weight>130.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Texture-gommage-corps-eclat.jpg?v=1779366221</g:additional_image_link>
@@ -2496,8 +2548,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3028</g:gtin>
       <g:mpn>3028</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>17.60 EUR</g:sale_price>
       <g:shipping_weight>195.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Texture-gommage-corps-eclat.jpg?v=1779366221</g:additional_image_link>
@@ -2549,8 +2602,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Exfoliants</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2003</g:gtin>
       <g:mpn>2003</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>48.45 EUR</g:sale_price>
       <g:shipping_weight>0.258 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-doux-nuhanciam.png?v=1753360717</g:additional_image_link>
@@ -2576,8 +2630,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Exfoliants</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3003</g:gtin>
       <g:mpn>3003</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>65.02 EUR</g:sale_price>
       <g:shipping_weight>0.387 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-doux-nuhanciam.png?v=1753360717</g:additional_image_link>
@@ -2636,8 +2691,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Oils</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2052</g:gtin>
       <g:mpn>2052</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>29.45 EUR</g:sale_price>
       <g:shipping_weight>1180.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Huile-douche-emolliente-Benefice-1.jpg?v=1785340312</g:additional_image_link>
@@ -2670,8 +2726,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Oils</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3052</g:gtin>
       <g:mpn>3052</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>39.52 EUR</g:sale_price>
       <g:shipping_weight>1770.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Huile-douche-emolliente-Benefice-1.jpg?v=1785340312</g:additional_image_link>
@@ -2732,8 +2789,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Oils</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2067</g:gtin>
       <g:mpn>2067</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>13.10 EUR</g:sale_price>
       <g:shipping_weight>0.134 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Huile-douche-emolliente-Benefice-1.jpg?v=1785340312</g:additional_image_link>
@@ -2760,8 +2818,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Oils</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3067</g:gtin>
       <g:mpn>3067</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>17.60 EUR</g:sale_price>
       <g:shipping_weight>0.201 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Huile-douche-emolliente-Benefice-1.jpg?v=1785340312</g:additional_image_link>
@@ -2816,8 +2875,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Oils</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2010</g:gtin>
       <g:mpn>2010</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>51.30 EUR</g:sale_price>
       <g:shipping_weight>0.346 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/melange-huiles-naturel-corps-cheveux.png?v=1733830264</g:additional_image_link>
@@ -2844,8 +2904,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Oils</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3010</g:gtin>
       <g:mpn>3010</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>68.85 EUR</g:sale_price>
       <g:shipping_weight>0.519 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/melange-huiles-naturel-corps-cheveux.png?v=1733830264</g:additional_image_link>
@@ -2900,8 +2961,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2023</g:gtin>
       <g:mpn>2023</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>68.40 EUR</g:sale_price>
       <g:shipping_weight>1116.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corps-anti-taches-brunes-naturel.png?v=1733830283</g:additional_image_link>
@@ -2928,8 +2990,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3023</g:gtin>
       <g:mpn>3023</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>91.80 EUR</g:sale_price>
       <g:shipping_weight>1674.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corps-anti-taches-brunes-naturel.png?v=1733830283</g:additional_image_link>
@@ -2983,8 +3046,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2015</g:gtin>
       <g:mpn>2015</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>50.35 EUR</g:sale_price>
       <g:shipping_weight>1126.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-hydratant-corps-naturel-vegan.png?v=1753354117</g:additional_image_link>
@@ -3010,8 +3074,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3015</g:gtin>
       <g:mpn>3015</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>67.58 EUR</g:sale_price>
       <g:shipping_weight>1689.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-hydratant-corps-naturel-vegan.png?v=1753354117</g:additional_image_link>
@@ -3062,8 +3127,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2022</g:gtin>
       <g:mpn>2022</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>13.10 EUR</g:sale_price>
       <g:shipping_weight>130.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -3087,8 +3153,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3022</g:gtin>
       <g:mpn>3022</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>17.60 EUR</g:sale_price>
       <g:shipping_weight>195.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -3139,8 +3206,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2039</g:gtin>
       <g:mpn>2039</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>47.50 EUR</g:sale_price>
       <g:shipping_weight>374.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lotion-peeling-purete.png?v=1758208857</g:additional_image_link>
@@ -3166,8 +3234,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3039</g:gtin>
       <g:mpn>3039</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>63.75 EUR</g:sale_price>
       <g:shipping_weight>561.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lotion-peeling-purete.png?v=1758208857</g:additional_image_link>
@@ -3220,8 +3289,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Exfoliants</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2008</g:gtin>
       <g:mpn>2008</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>48.45 EUR</g:sale_price>
       <g:shipping_weight>0.254 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/masquesoinpureteeclat.png?v=1753862042</g:additional_image_link>
@@ -3247,8 +3317,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Exfoliants</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3008</g:gtin>
       <g:mpn>3008</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>65.02 EUR</g:sale_price>
       <g:shipping_weight>0.381 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/masquesoinpureteeclat.png?v=1753862042</g:additional_image_link>
@@ -3301,8 +3372,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2006</g:gtin>
       <g:mpn>2006</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>41.61 EUR</g:sale_price>
       <g:shipping_weight>0.532 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/nettoyant-moussant-visage-naturel-sans-savon.png?v=1764751220</g:additional_image_link>
@@ -3328,8 +3400,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3006</g:gtin>
       <g:mpn>3006</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>55.84 EUR</g:sale_price>
       <g:shipping_weight>0.798 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/nettoyant-moussant-visage-naturel-sans-savon.png?v=1764751220</g:additional_image_link>
@@ -3380,8 +3453,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2016</g:gtin>
       <g:mpn>2016</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>18.81 EUR</g:sale_price>
       <g:shipping_weight>164.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -3405,8 +3479,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3016</g:gtin>
       <g:mpn>3016</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>25.25 EUR</g:sale_price>
       <g:shipping_weight>246.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -3456,8 +3531,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2038</g:gtin>
       <g:mpn>2038</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>38.95 EUR</g:sale_price>
       <g:shipping_weight>420.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-hydratante-nuhanciam.png?v=1758267825</g:additional_image_link>
@@ -3482,8 +3558,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3038</g:gtin>
       <g:mpn>3038</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>52.27 EUR</g:sale_price>
       <g:shipping_weight>630.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-hydratante-nuhanciam.png?v=1758267825</g:additional_image_link>
@@ -3534,8 +3611,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2040</g:gtin>
       <g:mpn>2040</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>38.95 EUR</g:sale_price>
       <g:shipping_weight>420.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse_nettoyante_peeling.png?v=1758209011</g:additional_image_link>
@@ -3560,8 +3638,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3040</g:gtin>
       <g:mpn>3040</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>52.27 EUR</g:sale_price>
       <g:shipping_weight>630.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse_nettoyante_peeling.png?v=1758209011</g:additional_image_link>
@@ -3611,8 +3690,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2049</g:gtin>
       <g:mpn>2049</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>18.81 EUR</g:sale_price>
       <g:shipping_weight>0.162 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -3636,8 +3716,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3049</g:gtin>
       <g:mpn>3049</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>25.25 EUR</g:sale_price>
       <g:shipping_weight>0.24 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -3688,8 +3769,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2032</g:gtin>
       <g:mpn>2032</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>38.95 EUR</g:sale_price>
       <g:shipping_weight>0.42 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-MousseVitamineC.jpg?v=1764751055</g:additional_image_link>
@@ -3715,8 +3797,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3032</g:gtin>
       <g:mpn>3032</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>52.27 EUR</g:sale_price>
       <g:shipping_weight>0.63 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-MousseVitamineC.jpg?v=1764751055</g:additional_image_link>
@@ -3768,8 +3851,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Routine</g:product_type>
+      <g:gtin>255016</g:gtin>
       <g:mpn>255016</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>90.84 EUR</g:sale_price>
       <g:shipping_weight>1167.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -3793,8 +3877,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Routine</g:product_type>
+      <g:gtin>254014</g:gtin>
       <g:mpn>254014</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>95.41 EUR</g:sale_price>
       <g:shipping_weight>0.537 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -3818,8 +3903,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Routine</g:product_type>
+      <g:gtin>254013</g:gtin>
       <g:mpn>254013</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>89.22 EUR</g:sale_price>
       <g:shipping_weight>0.591 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -3843,8 +3929,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Routine</g:product_type>
+      <g:gtin>255012</g:gtin>
       <g:mpn>255012</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>119.84 EUR</g:sale_price>
       <g:shipping_weight>1341.0 g</g:shipping_weight>
       <g:age_group>adult</g:age_group>
@@ -3897,8 +3984,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2029</g:gtin>
       <g:mpn>2029</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>52.61 EUR</g:sale_price>
       <g:shipping_weight>0.324 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Fiche-Meilleurs-Actifs-Serum-Anti-Imperfections.jpg?v=1743672443</g:additional_image_link>
@@ -3925,8 +4013,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3029</g:gtin>
       <g:mpn>3029</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>69.34 EUR</g:sale_price>
       <g:shipping_weight>0.486 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Fiche-Meilleurs-Actifs-Serum-Anti-Imperfections.jpg?v=1743672443</g:additional_image_link>
@@ -3982,8 +4071,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2031</g:gtin>
       <g:mpn>2031</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>91.20 EUR</g:sale_price>
       <g:shipping_weight>0.304 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam.png?v=1738082665</g:additional_image_link>
@@ -4011,8 +4101,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3031</g:gtin>
       <g:mpn>3031</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>122.40 EUR</g:sale_price>
       <g:shipping_weight>0.456 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam.png?v=1738082665</g:additional_image_link>
@@ -4069,8 +4160,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2011</g:gtin>
       <g:mpn>2011</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>90.80 EUR</g:sale_price>
       <g:shipping_weight>0.324 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum-anti-taches-naturel-peau-noire-mate-metissee.png?v=1743432341</g:additional_image_link>
@@ -4097,8 +4189,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3011</g:gtin>
       <g:mpn>3011</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>120.60 EUR</g:sale_price>
       <g:shipping_weight>0.486 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum-anti-taches-naturel-peau-noire-mate-metissee.png?v=1743432341</g:additional_image_link>
@@ -4154,8 +4247,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2046</g:gtin>
       <g:mpn>2046</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>91.20 EUR</g:sale_price>
       <g:shipping_weight>0.324 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-SerumEclaircissantTaches.jpg?v=1743509718</g:additional_image_link>
@@ -4183,8 +4277,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3046</g:gtin>
       <g:mpn>3046</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>122.40 EUR</g:sale_price>
       <g:shipping_weight>0.486 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-SerumEclaircissantTaches.jpg?v=1743509718</g:additional_image_link>
@@ -4245,8 +4340,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2033</g:gtin>
       <g:mpn>2033</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>68.40 EUR</g:sale_price>
       <g:shipping_weight>0.324 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Serum-Hydratant_24h-Benefice_1.jpg?v=1785337939</g:additional_image_link>
@@ -4278,8 +4374,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3033</g:gtin>
       <g:mpn>3033</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>91.80 EUR</g:sale_price>
       <g:shipping_weight>0.486 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Nuhanciam-Serum-Hydratant_24h-Benefice_1.jpg?v=1785337939</g:additional_image_link>
@@ -4339,8 +4436,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>2036</g:gtin>
       <g:mpn>2036</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>68.40 EUR</g:sale_price>
       <g:shipping_weight>1.12 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin-hydratant-corps-naturel-peau-tres-seche.png?v=1733852216</g:additional_image_link>
@@ -4367,8 +4465,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
+      <g:gtin>3036</g:gtin>
       <g:mpn>3036</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>91.80 EUR</g:sale_price>
       <g:shipping_weight>1.68 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin-hydratant-corps-naturel-peau-tres-seche.png?v=1733852216</g:additional_image_link>
@@ -4422,8 +4521,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3001</g:gtin>
       <g:mpn>2030</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>89.30 EUR</g:sale_price>
       <g:shipping_weight>452.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam_4.jpg?v=1744634563</g:additional_image_link>
@@ -4449,8 +4549,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3030</g:gtin>
       <g:mpn>3030</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>119.85 EUR</g:sale_price>
       <g:shipping_weight>678.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam_4.jpg?v=1744634563</g:additional_image_link>
@@ -4503,8 +4604,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>2012</g:gtin>
       <g:mpn>2012</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>29.25 EUR</g:sale_price>
       <g:shipping_weight>0.064 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/sto-boutons-nuhanciam_ca9ea7cd-ee26-4870-b070-3ba31c3b3ee0.png?v=1753362608</g:additional_image_link>
@@ -4529,8 +4631,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
+      <g:gtin>3012</g:gtin>
       <g:mpn>3012</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>38.63 EUR</g:sale_price>
       <g:shipping_weight>0.096 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/sto-boutons-nuhanciam_ca9ea7cd-ee26-4870-b070-3ba31c3b3ee0.png?v=1753362608</g:additional_image_link>
@@ -4555,8 +4658,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Cosmétiques</g:product_type>
+      <g:gtin>326001</g:gtin>
       <g:mpn>326001</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>57.90 EUR</g:sale_price>
       <g:shipping_weight>0.501 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Coffret_fete_des_meres_crea.jpg?v=1778690141</g:additional_image_link>
@@ -4580,8 +4684,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Trio</g:product_type>
+      <g:gtin>253017</g:gtin>
       <g:mpn>253017</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>88.40 EUR</g:sale_price>
       <g:shipping_weight>588.0 g</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/moussevitamineC_0c2e6ec2-3a4b-498f-9b09-b30c63d32162.jpg?v=1775831651</g:additional_image_link>
@@ -4608,8 +4713,9 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Trio</g:product_type>
+      <g:gtin>253009</g:gtin>
       <g:mpn>253009</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:sale_price>94.40 EUR</g:sale_price>
       <g:shipping_weight>0.229 kg</g:shipping_weight>
       <g:age_group>adult</g:age_group>
