@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:24:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 11:54:22 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -311,7 +311,7 @@
       <g:description>Usage interne – insert colis. Carte de remerciement glissée par Inelogis dans le colis des commandes récurrentes (2e commande et suivantes). Ajoutée automatiquement à 0 € par Shopify Flow. Non vendue. Réf. interne (SKU) CARTE-FIDELE Format 10 × 21 cm Poids 10 g Déclencheur 2e commande et suivantes Préparation Inelogis – 1 carte par colis, posée sur les produits</g:description>
       <g:link>https://nuhanciam.com/products/carte-offerte-fidele</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CARTE-FIDELE_440b9718-61a1-4f51-814c-e9f810bbf293.jpg?v=1792574990</g:image_link>
-      <g:availability>backorder</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>0.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -327,7 +327,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Packaging</g:custom_label_1>
       <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>backorder</g:custom_label_3>
+      <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>carte-fidele, carte-interne</g:custom_label_4>
     </item>
     <item>
@@ -1221,7 +1221,7 @@
       <g:description>L'efficacité d'un actif anti-âge ciblé, la douceur d'une huile. L'Élixir Booster de Collagène est un sérum-huile concentré qui réduit les rides installées, raffermit et redonne souplesse et éclat aux peaux matures. Sa texture fine et lumineuse pénètre sans film gras ni collant. Geste n°1 de la routine peau mature : l'élixir agit à la source, la Crème Riche Anti-Âge renforce chaque jour. En laboratoire, il stimule la synthèse de collagène I (+15,7 %*) et la production d'élastine (+42 %*). 100 % d'actifs · 100 % d'ingrédients d'origine naturelle · vegan · fabriqué en France. *Tests in vitro (24 h).</g:description>
       <g:link>https://nuhanciam.com/products/demo-elixir-booster-de-collagene</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000595_Elixir-Booster-De-Collagene_30ml.jpg?v=1788366064</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>backorder</g:availability>
       <g:price>55.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -1242,7 +1242,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>Lissage &amp; Fermeté, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
@@ -1442,7 +1442,7 @@
       <g:description>La routine anti-âge complète des peaux matures : agir à la source, renforcer chaque jour. Adoptez notre Duo Élixir &amp;amp; Crème Riche Anti-Âge, deux soins complémentaires pour réduire visiblement les rides, raffermir la peau et lui redonner souplesse et éclat. L'Élixir Booster de Collagène agit à la source ; la Crème Riche Anti-Âge prend le relais et enveloppe la peau d'un voile de confort, jour après jour. Ce que contient le duo Élixir Booster de Collagène – 30 ml – Un sérum-huile 100 % d'actifs au bakuchiol, à l'huile de cacay et à la criste marine. Sa texture fine et lumineuse pénètre sans film gras ni collant. –19,7 % de profondeur des rides (patte d'oie)* et 95 % constatent une peau repulpée, plus ferme et unifiée*. Crème Riche Anti-Âge – 50 ml – Un soin riche et fondant à l'acide hyaluronique, à l'Ethicskin™ et au Bidens pilosa, alternative végétale au rétinol. 9 femmes sur 10 voient leurs rides diminuées** et 100 % constatent une élasticité améliorée***. Le petit + de notre duo : les deux soins sont à -20 % par rapport à leur prix à l'unité. *Test clinique sous contrôle dermatologique – 22 femmes – 45-69 ans – 56 jours – % de satisfaction. **Mesures instrumentales. ***Auto-évaluation sous contrôle dermatologique – 22 sujets – 56 jours.</g:description>
       <g:link>https://nuhanciam.com/products/duo-elixir-creme-riche-anti-age</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Duo-Elixir_Creme-Riche.jpg?v=1791384718</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>backorder</g:availability>
       <g:price>107.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -1460,7 +1460,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Duo</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>bundle, Lissage &amp; Fermeté, Routines</g:custom_label_4>
     </item>
     <item>
@@ -1764,7 +1764,7 @@
       <g:description>100 % d'actifs. Des rides visiblement réduites, une peau plus ferme, un teint plus radieux. L'efficacité d'un actif anti-âge ciblé, la douceur d'une huile. L'Élixir Booster de Collagène est un sérum-huile concentré en actifs anti-âge qui réduit les rides installées, raffermit et redonne souplesse et éclat aux peaux matures — une texture fine et lumineuse, sans film gras ni collant.Geste n°1 de la routine peau mature : l'élixir agit à la source ; la Crème Riche Anti-Âge renforce chaque jour. Efficacité prouvée : –19,7 % de profondeur des rides (patte d'oie)** 95 % constatent une peau repulpée, plus ferme et unifiée** 100 % un teint plus radieux** +15,7 % synthèse de collagène I stimulée* · +42 % production d'élastine stimulée* 100 % d'actifs · 100 % d'ingrédients d'origine naturelle. *Tests in vitro (24 h) — **Test clinique sous contrôle dermatologique - 22 femmes - 45-69 ans - 56 jours - % de satisfaction</g:description>
       <g:link>https://nuhanciam.com/products/elixir-booster-de-collagene?variant=57268849312088</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3664448000595_Elixir-Booster-De-Collagene_30ml.jpg?v=1788366064</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>backorder</g:availability>
       <g:price>55.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -1781,7 +1781,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>Lissage &amp; Fermeté, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
