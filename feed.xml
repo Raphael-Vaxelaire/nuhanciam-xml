@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 13 Nov 2026 14:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:12:44 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -1037,7 +1037,7 @@
       <g:description>Le soleil est la première cause d'apparition de taches brunes, du mélasma et du vieillissement cutané prématuré. La creme solaire invisible anti tache SPF 50+ Nuhanciam change la donne : une crème solaire anti-taches à la fois protectrice et corrective, dans une texture légère, invisible et à l'effet mat. Conçue pour les adultes. Le nouveau soin solaire de votre routine beauté grâce à son action 2-en-1 !</g:description>
       <g:link>https://nuhanciam.com/products/creme-solaire-invisible-anti-taches?variant=56975729394008</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SPFx1.jpg?v=1774449687</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>25.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -1060,7 +1060,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_3>out_of_stock</g:custom_label_3>
       <g:custom_label_4>Anti-taches, promo-en-cours, Solaire</g:custom_label_4>
     </item>
     <item>
